@@ -1,12 +1,42 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="customScope" value="Code Anaylsis" />
+    <option name="defaultScopeName" value="Code Anaylsis" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="Code Anaylsis" />
+    <recentFileMasks>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*Scenarios.js</mask>
+      <mask>*.json,*.sh,*.bat,*.js</mask>
+      <mask>*.spec.js</mask>
+      <mask>*e2e.spec.js</mask>
+      <mask>*.txt</mask>
+      <mask>*Data.js</mask>
+      <mask>*.js,*.html,*.spec,*.scss</mask>
+      <mask>*Spec.js</mask>
+      <mask>*.hml</mask>
+      <mask>*.hm</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.sh</mask>
+      <mask>*.css,</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.html,*.scss</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
   </component>
 </application>

@@ -1,0 +1,97 @@
+<feature-body ng-init="initialize()">
+
+    <script type="text/ng-template" id="featureToolBar">
+        <input type="button" class="BtnGreen Add" ng-value="getAppConfig().strAdd" ng-click="add${entity}()" ng-if="config.blnCanAdd"
+               ng-disabled="isFeatureFormDirty()">
+        <feature-help help-id="getHelpId()"></feature-help>
+    </script>
+
+    <script type="text/ng-template" id="featureOption">
+        <div>
+            <div class="FeatureOptionTitleContainer">
+                <div class="NoSelection" ng-bind="config.strNo${entity}Selected" ng-if="!data.obj${entity}"></div>
+                <div class="Title" ng-bind="data.obj${entity}.strName + ' - ' + data.obj${entity}.str${entity}Id"
+                     ng-if="data.obj${entity}"></div>
+            </div>
+            <div class="FeatureOptionButtonContainer" ng-if="data.obj${entity}">
+                <input type="button" class="BtnFeature" ng-value="getAppConfig().strDelete"
+                       ng-disabled="isFeatureFormDirty()"
+                       ng-click="delete${entity}()" ng-if="config.blnCanDelete">
+            </div>
+        </div>
+    </script>
+
+    <script type="text/ng-template" id="featureContentButtons">
+        <div ng-if="data.obj${entity}">
+            <form-cancel-button on-cancel="cancelUpdate${entity}()" disable-pristine="true"></form-cancel-button>
+            <form-submit-button text="getAppConfig().strSave" on-submit="update${entity}()" disable-pristine="true"></form-submit-button>
+        </div>
+    </script>
+
+    <script type="text/ng-template" id="featureData">
+        <div ng-if="data.obj${entity}">
+            <table class="TextValueTable">
+                <tr>
+                    <td class="Label" ng-bind="getAppConfig().strName"></td>
+                    <td class="Value">
+                        <tcp-text ng-model="data.obj${entity}.strName" tcp-maxlength="config.intMaxNameLength"
+                                  ng-required="config.blnCanEdit" ng-disabled="!config.blnCanEdit"></tcp-text>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="Label" ng-bind="getAppConfig().strId"></td>
+                    <td class="Value">
+                        <tcp-text ng-model="data.obj${entity}.str${entity}Id" tcp-maxlength="config.intMax${entity}IdLength"
+                                  ng-required="config.blnCanEdit" ng-disabled="!config.blnCanEdit"></tcp-text>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </script>
+
+    <script type="text/ng-template" id="navigationListSort">
+        <div class="SingleSort">
+            <popup-button class="PopupBtnFeature SortPopupButton">
+                <div>
+                    <tcp-radio id="rdoSortByCategory" ng-model="data.objFilterData.strSortByField" ng-value="'str${entity}Id'"
+                               name="sortByField" ng-change="objGridHelper.sort()" label="getAppConfig().strId"></tcp-radio>
+                </div>
+                <div>
+                    <tcp-radio id="rdoSortByDescription" ng-model="data.objFilterData.strSortByField" ng-value="'strName'"
+                               name="sortByField" ng-change="objGridHelper.sort()" label="getAppConfig().strName"></tcp-radio>
+                </div>
+                <div class="Separator"></div>
+                <div>
+                    <tcp-radio ng-model="data.objFilterData.blnSortDescending" ng-value="false" name="sortByDirection"
+                               id="SortAscending" ng-change="objGridHelper.sort()" label="getAppConfig().strAscending"></tcp-radio>
+                </div>
+                <div>
+                    <tcp-radio ng-model="data.objFilterData.blnSortDescending" ng-value="true" name="sortByDirection"
+                               id="SortDescending" ng-change="objGridHelper.sort()" label="getAppConfig().strDescending"></tcp-radio>
+                </div>
+            </popup-button>
+        </div>
+    </script>
+
+    <script type="text/ng-template" id="navigationListSearch">
+        <search filter-data="data.objFilterData" on-request="objGridHelper.search()"></search>
+    </script>
+
+    <script type="text/ng-template" id="navigationList">
+        <div class="NavigationListGridContainer">
+            <table id="NavigationListGrid" class="Grid" helper="objGridHelper" collection="data.arr${entity}s"
+                   filter-data="data.objFilterData">
+                <tbody>
+                <tr ng-repeat="obj${entity} in data.arr${entity}s"
+                    ng-class="{Selected:data.obj${entity}.getKey() === obj${entity}.getKey()}"
+                    ng-click="select${entity}(obj${entity}.getKey())">
+                    <td ng-bind="obj${entity}.str${entity}Id"></td>
+                    <td ng-bind="obj${entity}.strName"></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </script>
+
+</feature-body>
+

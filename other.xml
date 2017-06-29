@@ -1,16 +1,87 @@
 <application>
-  <component name="PyTestFrameworkService">
-    <option name="SDK_TO_PYTEST">
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BuiltInServerOptions" builtInServerPort="63343" builtInServerAvailableExternally="true" />
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.9.0/bin/node">
+      <version-cache version="7.9.0" last-modified="1491924767000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v7.9.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="4.2.6" last-modified="1463787647000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.10.35" last-modified="1419305506000" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
       <map>
-        <entry key="/usr/bin/python-sudo.sh" value="false" />
-        <entry key="/usr/bin/python2.7" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_NOSETEST">
-      <map>
-        <entry key="/usr/bin/python-sudo.sh" value="false" />
-        <entry key="/usr/bin/python2.7" value="false" />
+        <entry key="https://devsvr1.dmione.com/svn/tcp-we-70/trunk/client">
+          <value>
+            <set>
+              <option value="D:\work\tcp-we-70\client" />
+            </set>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="D:\work\tcp-we-70\client">
+    <option name="PATCH_STORAGE_LOCATION" value="D:\work\tcp-we-70\client" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="ControllerSpec" />
+            <item index="1" class="java.lang.String" itemvalue="XSLT Stylesheet" />
+            <item index="2" class="java.lang.String" itemvalue="Angular Directive" />
+            <item index="3" class="java.lang.String" itemvalue="JasmineSpec" />
+            <item index="4" class="java.lang.String" itemvalue="BaseAngularController" />
+            <item index="5" class="java.lang.String" itemvalue="MockService" />
+            <item index="6" class="java.lang.String" itemvalue="AngularModalController" />
+            <item index="7" class="java.lang.String" itemvalue="JsClassTemplate" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
 </application>

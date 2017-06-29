@@ -1,0 +1,18 @@
+<application>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+</application>

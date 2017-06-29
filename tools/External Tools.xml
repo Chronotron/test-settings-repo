@@ -1,0 +1,86 @@
+<toolSet name="External Tools">
+  <tool name="SortAndSpec" description="Sort and Spec" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="python" />
+      <option name="PARAMETERS" value="$ProjectFileDir$/scripts/sort-and-spec.py $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Start Nginx" description="Starts up nginx for me" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\nginx\nginx.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/Tools/nginx" />
+    </exec>
+  </tool>
+  <tool name="setup-prod-lite" description="setups up lite prod environment" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\cygwin\bin\bash.exe" />
+      <option name="PARAMETERS" value="--login -i ./setup-prod-lite.sh" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/scripts" />
+    </exec>
+  </tool>
+  <tool name="DocAndBlock" description="Adds JSDoc to a class or controller" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\python2.7.exe" />
+      <option name="PARAMETERS" value="D:\Work\tcp-we-70\client\scripts\tcp_js_helper\doc_and_block.py $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="D:/Work/tcp-we-70/client" />
+    </exec>
+  </tool>
+  <tool name="Protractor" showInMainMenu="false" showInEditor="true" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\bash.exe" />
+      <option name="PARAMETERS" value="protractor  --specs &quot;$FilePath$&quot; --params.protocol http --seleniumServerJar &quot;&quot;  &quot;D:\work\tcp-we-70\client\test\config\test-smoke.conf.js&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/pparker/AppData/Roaming/npm/" />
+    </exec>
+  </tool>
+  <tool name="Start WebDriver" description="Starts webdriver service" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\bash.exe" />
+      <option name="PARAMETERS" value="webdriver-manager start --single-instance" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/pparker/AppData/Roaming/npm" />
+    </exec>
+  </tool>
+  <tool name="Sort Methods" description="Sorts methods" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\python2.7.exe" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\scripts\sort-methods.py $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="D:/Work/tcp-we-70/client/" />
+    </exec>
+  </tool>
+  <tool name="Protractor All Tests" showInMainMenu="true" showInEditor="true" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\bash.exe" />
+      <option name="PARAMETERS" value="protractor  --params.protocol http --seleniumServerJar &quot;&quot;  &quot;D:\work\tcp-we-70\client\test\config\test-smoke.conf.js&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/pparker/AppData/Roaming/npm/" />
+    </exec>
+  </tool>
+  <tool name="Generate Controller" description="Generates a spt controller from a template" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\python2.7.exe" />
+      <option name="PARAMETERS" value=".\generate-service.py $FilePath$ $FileNameWithoutAllExtensions$ spt" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/scripts" />
+    </exec>
+  </tool>
+  <tool name="Protractor with config" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\bash.exe" />
+      <option name="PARAMETERS" value="protractor  --params.protocol http  &quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/pparker/AppData/Roaming/npm/" />
+    </exec>
+  </tool>
+  <tool name="Protractor All Tests (SPT)" showInMainMenu="true" showInEditor="true" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\bash.exe" />
+      <option name="PARAMETERS" value="protractor  --params.protocol http --seleniumServerJar &quot;&quot;  &quot;D:\Work\tcp-ia-70-spt\client\config\e2e.conf.js&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/pparker/AppData/Roaming/npm/" />
+    </exec>
+  </tool>
+  <tool name="Style Sorter" description="Sorts scss style sheets" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Tools\cygwin\bin\python2.7.exe" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\scripts\style-sorter.py $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
