@@ -1,0 +1,9 @@
+<toolSet name="CMD">
+  <tool name="CMD Prompt" description="CMD Prompt Set for Project directory" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="node scripts\web-server.js" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

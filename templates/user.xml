@@ -1,0 +1,163 @@
+<templateSet group="user">
+  <template name="pf" value="$jsClassName$.prototype.$function$ = function ($arg$) {&#10;    $END$&#10;};" description="Prototype Function" toReformat="false" toShortenFQNames="true">
+    <variable name="jsClassName" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="function" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sh" value="var objServiceHandler = $scope.createServiceHandler($scope.$select$);" description="service handler" toReformat="false" toShortenFQNames="true">
+    <variable name="select" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tit" value="it(&quot;$testName$&quot;, function () {&#10;    // setup&#10;    $END$&#10;                &#10;    // pre-conditions&#10;                &#10;    // execute&#10;                &#10;    // post conditions&#10;});" description="jasmine test" toReformat="true" toShortenFQNames="true">
+    <variable name="testName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="trun" value="runs(function () {&#10;    expect(testHelper.getErrorMessage()).toBe(&quot;&quot;);&#10;    $END$&#10;});" description="runs with default error assertion" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="twait" value="testHelper.waitsFor(function () {&#10;    return $END$&#10;});" description="testHelper waitsFor" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="spyt" value="spyOn($scope$, &quot;$method$&quot;).andCallThrough();" description="set up spy and call through" toReformat="true" toShortenFQNames="true">
+    <variable name="scope" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tiit" value="it(&quot;$testName$&quot;, inject(function ($service$) {&#10;    // setup&#10;    $END$&#10;                &#10;    // pre-conditions&#10;                &#10;    // execute&#10;                &#10;    // post conditions&#10;}));" description="test with inject" toReformat="false" toShortenFQNames="true">
+    <variable name="testName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="service" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="titm" value="it(&quot;should show $testname$&quot;, function () {&#10;    // pre-conditions&#10;    expect(objAppScope.showModal).not.toHaveBeenCalled();&#10;&#10;    // execute&#10;    $scope$.$method$();&#10;                &#10;    // post conditions&#10;    expect(objAppScope.showModal).toHaveBeenCalled();&#10;    var strModalUrl = objAppScope.showModal.mostRecentCall.args[1];&#10;    expect(strModalUrl).toBe($scope$.getModalUrl($scope$.MODAL_URLS.$url$));&#10;});" description="test for show modal" toReformat="false" toShortenFQNames="true">
+    <variable name="testname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="scope" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tvtb" value="&lt;table class=&quot;TextValueTable&quot;&gt;&#10;&lt;tr&gt;&#10;    &lt;td class=&quot;Label&quot;&gt;&lt;/td&gt;&#10;    &lt;td class=&quot;Value&quot;&gt;&lt;/td&gt;&#10;&lt;/tr&gt;&#10;&lt;/table&gt;" description="TextValueTable" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="tvtr" value="&lt;tr&gt;&#10;    &lt;td class=&quot;Label&quot;&gt;&lt;/td&gt;&#10;    &lt;td class=&quot;Value&quot;&gt;&lt;/td&gt;&#10;&lt;/tr&gt;" description="TextValueTable tr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ghi" value="$scope.getHelpId = function () {&#10;    return tcpwe.common.uiDomain.helpConstants.help.$END$;&#10;};" description="getHelpId" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="apip" value="    var strApiPath = this._getApiPath(&quot;/$controller$/0/$method$$query$&quot;$replacements$);&#10;    $END$" description="strApiPath variable" toReformat="false" toShortenFQNames="true">
+    <variable name="controller" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="query" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="replacements" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ddd" value="describe(&quot;$Describe$&quot;, function () {&#10;    $END$&#10;});" description="describe" toReformat="true" toShortenFQNames="true">
+    <variable name="Describe" expression="" defaultValue="&quot;Description&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ebm" value="var $element$ = element(by.model('$model$'));" description="elment by model" toReformat="false" toShortenFQNames="true">
+    <variable name="element" expression="" defaultValue="&quot;anElement&quot;" alwaysStopAt="true" />
+    <variable name="model" expression="" defaultValue="&quot;aModel&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ebi" value="var $element$ = element(by.id('$id$'));" description="element by id" toReformat="false" toShortenFQNames="true">
+    <variable name="element" expression="" defaultValue="&quot;anElement&quot;" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="&quot;anId&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ebc" value="var $element$ = element(by.css('$css$'));" description="element by css" toReformat="false" toShortenFQNames="true">
+    <variable name="element" expression="" defaultValue="&quot;anElement&quot;" alwaysStopAt="true" />
+    <variable name="css" expression="" defaultValue="&quot;aSelector&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jcs" value="$SpyAssigment$ = jasmine.createSpy(&quot;$END$&quot;);" description="jasmine create spy" toReformat="false" toShortenFQNames="true">
+    <variable name="SpyAssigment" expression="" defaultValue="&quot;this.method&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="nfh" value="goog.provide('$module$.$NAME$');&#10;&#10;goog.require('$module$.module');" description="new file header" toReformat="false" toShortenFQNames="true">
+    <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fnwe" value="$fileName$" description="file name without extension" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="underscoresToCamelCase(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="wizz" value="    //region Public Methods (Wizard)&#10;&#10;    /**&#10;     * @returns {string}&#10;     */&#10;    $scope.getContentTemplateId = function () {&#10;        if (!$scope.data || !$scope.config) {&#10;            return &quot;&quot;;&#10;        }&#10;        &#10;        switch ($scope.data.objWorkflowStep.strCommand) {&#10;            case $scope.config.strStepCommand$COMMAND$:&#10;                return &quot;$COMMAND$&quot;;&#10;            default:&#10;                return &quot;&quot;;&#10;        }&#10;    };&#10;    &#10;    $scope.onBackClicked = function () {&#10;        var objServiceHandler = $scope.createServiceHandler($scope._handle$HANDLE_STEP$);&#10;        objReportAutomationService.getPreviousStep($scope.data, objServiceHandler);&#10;    };&#10;&#10;    $scope.onCancelClicked = function () {&#10;        $scope.closeWindow();&#10;    };&#10;&#10;    $scope.onFinishClicked = function () {&#10;        var objServiceHandler = $scope.createServiceHandler($scope._handle$HANDLE_FINISH$));&#10;        objReportAutomationService.finishAddEditReportAutomation($scope.data, objServiceHandler);&#10;    };&#10;&#10;    $scope.onNextClicked = function () {&#10;        var objServiceHandler = $scope.createServiceHandler($scope._handle$HANDLE_STEP$));&#10;        objReportAutomationService.getNextStep($scope.data, objServiceHandler);&#10;    };&#10;&#10;    //endregion" description="wizard block" toReformat="true" toShortenFQNames="true">
+    <variable name="COMMAND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="HANDLE_STEP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="HANDLE_FINISH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pfcsd" value="$jsClassName$.prototype.createSubmissionData = function () {&#10;    var data = goog.object.clone(this);&#10;&#10;    delete data.$prop$;&#10;&#10;    return data;&#10;};" description="Prototype Function createSubmissionData" toReformat="false" toShortenFQNames="true">
+    <variable name="jsClassName" expression="jsQualifiedClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="modal" value="&lt;div ng-controller=&quot;tcpwe.$app$.controller.$nameSpace$.$modalController$&quot; ng-init=&quot;initialize()&quot; class=&quot;$modalController$&quot;&gt;&#10;    &lt;modal-header modal-title=&quot;config.strTitle&quot;&gt;&lt;/modal-header&gt;&#10;    &lt;modal-content&gt;&#10;    $END$&#10;    &lt;/modal-content&gt;&#10;    &lt;modal-footer&gt;&#10;        &lt;form-cancel-button on-cancel=&quot;$onCancel$()&quot;&gt;&lt;/form-cancel-button&gt;&#10;        &lt;form-submit-button text=&quot;getAppConfig().str$Label$&quot; on-submit=&quot;$onConfirm$()&quot;&gt;&lt;/form-submit-button&gt;&#10;    &lt;/modal-footer&gt;&#10;&lt;/div&gt;" description="modal skeleton" toReformat="false" toShortenFQNames="true">
+    <variable name="app" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="nameSpace" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="modalController" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="onCancel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Label" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="onConfirm" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="gpr" value="goog.provide('$provide$');" description="goog.provide" toReformat="false" toShortenFQNames="true">
+    <variable name="provide" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="grr" value="goog.require('$require$');" description="goog.require" toReformat="false" toShortenFQNames="true">
+    <variable name="require" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

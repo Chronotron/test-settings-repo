@@ -1,0 +1,9 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="E2E_CONF_PATH" value="D:/work/tcp-we-70/client/test/config/test-smoke.conf.js" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>

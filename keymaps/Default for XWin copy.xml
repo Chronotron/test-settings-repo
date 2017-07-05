@@ -2,8 +2,4 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-  </action>
-  <action id="context.load" />
 </keymap>

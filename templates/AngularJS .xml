@@ -1,0 +1,9 @@
+<templateSet group="AngularJS ">
+  <template name="ngm" value="angular.module('$moduleName$',[$moduleDependencies$]);&#10;$END$" description="A new angular module without a config function." toReformat="true" toShortenFQNames="true">
+    <variable name="moduleName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="moduleDependencies" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
