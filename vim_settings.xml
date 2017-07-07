@@ -600,7 +600,8 @@
         <mark key="." line="61" column="34" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1499450725099">
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1499465426679">
+        <mark key="'" line="109" column="36" />
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
@@ -648,11 +649,11 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" timestamp="1499456160289">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" timestamp="1499465493175">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/common/css/EnrollmentMessage.scss" timestamp="1494016620158">
         <mark key="[" line="0" column="17" />
@@ -1256,7 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="D:/Work/tcp-we-70/client/build/javascript/requires-manager.js" />
       <jump line="13" column="0" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
       <jump line="24" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
       <jump line="30" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
@@ -1356,6 +1356,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" />
       <jump line="33" column="90" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
       <jump line="0" column="7" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
+      <jump line="109" column="36" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1572,7 +1573,7 @@
         <text>False</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxweXR6XD4=</text>
+        <text>restart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSBVcGRhdGVTdGF0dXMoKQogICAgICAgIHVwZGF0ZVN0YXR1cy5jb21wbGV0ZSA9IEZhbHNlCiAgICAgICAgdXBkYXRlU3RhdHVzLm91dHB1dCA9IFsKICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAogICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICJDb21wbGV0ZSIKICAgICAgICBdCg==</text>
@@ -1609,9 +1610,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxweXR6XD4=</last-search>
+      <last-search>restart</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxweXR6XD4=</last-pattern>
+      <last-pattern>restart</last-pattern>
       <last-replace>Update</last-replace>
       <last-substitute>TerminalStatus</last-substitute>
       <last-dir>1</last-dir>
@@ -1619,7 +1620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>4on</entry>
         <entry>$on</entry>
         <entry encoding="base64">XDx3ZWJzb2NrZXRTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxnZXRQcmltaXRpdmVKc1Byb3BlcnRpZXNcPg==</entry>
@@ -1639,6 +1639,7 @@
         <entry>removeModal</entry>
         <entry>TerminalStatus</entry>
         <entry encoding="base64">XDxweXR6XD4=</entry>
+        <entry>restart</entry>
       </history-search>
       <history-cmd>
         <entry>%s//getCompanyLocationPreview/g</entry>
