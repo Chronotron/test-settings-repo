@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/Work/tcp-we-70/client/build/scratch.txt" timestamp="1484337738196">
@@ -793,6 +793,9 @@
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
+      </file>
+      <file name="/Python Console" timestamp="1499434926148">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/coveredEmployeeList.html" timestamp="1487276268084">
         <mark key="[" line="6" column="0" />
