@@ -144,6 +144,10 @@
         <mark key="^" line="168" column="51" />
         <mark key="." line="168" column="51" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/terminalStatusHandler.py" timestamp="1499450555551">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="52" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" timestamp="1494012856305">
         <mark key="'" line="51" column="9" />
         <mark key="[" line="49" column="0" />
@@ -594,6 +598,12 @@
         <mark key="." line="61" column="34" />
         <mark key="^" line="61" column="34" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1499450725099">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="106" column="55" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpOccurrenceRuleGeneralDirective.js" timestamp="1484237182298">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="128" />
@@ -635,6 +645,12 @@
         <mark key="]" line="8" column="39" />
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" timestamp="1499450783474">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/common/css/EnrollmentMessage.scss" timestamp="1494016620158">
         <mark key="[" line="0" column="17" />
@@ -794,7 +810,7 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1499441837521">
+      <file name="/Python Console" timestamp="1499450794527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/coveredEmployeeList.html" timestamp="1487276268084">
@@ -862,6 +878,7 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/abstractHandler.py" timestamp="1499450772738" />
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/dateTimeInput.js" timestamp="1486392199370">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="32" />
@@ -1234,7 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="3" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
       <jump line="160" column="5" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
       <jump line="321" column="62" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
       <jump line="31" column="0" filename="D:/Work/tcp-we-70/client/build/javascript/requires-manager.js" />
@@ -1334,6 +1350,7 @@
       <jump line="81" column="16" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
       <jump line="118" column="54" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
       <jump line="51" column="9" filename="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1359,7 +1376,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>common</text>
+        <text encoding="base64">YXBpQmFja2dyb3VuZEhhbmRsZXIsIA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1547,31 +1564,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text encoding="base64">YXBpQmFja2dyb3VuZEhhbmRsZXIsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>removeModal</text>
+        <text>TerminalStatus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gJCggZmluZCBhcHAvY29tbW9uIC1uYW1lICIqLmh0bWwiICApCg==</text>
+        <text encoding="base64">ZnJvbSBtcGkuaGFuZGxlciBpbXBvcnQgYXBpQmFja2dyb3VuZEhhbmRsZXIsIHVwZGF0ZUhhbmRsZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lkljb24gewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKCiAgJi5TdWNjZXNzLCAmLkZhaWwgewogICAgJHNpemU6IDQwcHg7CiAgICB3aWR0aDogJHNpemU7CiAgICBoZWlnaHQ6ICRzaXplOwogICAgYmFja2dyb3VuZC1zaXplOiAkc2l6ZSAkc2l6ZTsKICB9CgogICYuU3VjY2VzcyB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoY3JlYXRlQ29tbW9uU3R5bGVVcmwoJ2ljb25zL2dyZWVuLWNoZWNrYm94LnBuZycpKTsKICB9CgogICYuRmFpbCB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoY3JlYXRlQ29tbW9uU3R5bGVVcmwoJ2ljb25zL3JlZC14LnBuZycpKTsKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXJGYWN0b3J5ID0gc2VsZi52YWxpZGF0ZVByZXNlbnRlckZhY3RvcnkoKQogICAgICAgIHByZXNlbnRlciA9IHByZXNlbnRlckZhY3RvcnkuY3JlYXRlVXBkYXRlUHJlc2VudGVyKCkKCiAgICAgICAgY29udGV4dCA9IHByZXNlbnRlci5nZXRVcGRhdGVDb250ZXh0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuSWNvbiB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CgogICAgJi5TdWNjZXNzLCAmLkZhaWwgewogICAgICAkc2l6ZTogNDBweDsKICAgICAgd2lkdGg6ICRzaXplOwogICAgICBoZWlnaHQ6ICRzaXplOwogICAgICBiYWNrZ3JvdW5kLXNpemU6ICRzaXplICRzaXplOwogICAgfQoKICAgICYuU3VjY2VzcyB7CiAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChjcmVhdGVDb21tb25TdHlsZVVybCgnaWNvbnMvZ3JlZW4tY2hlY2tib3gucG5nJykpOwogICAgfQoKICAgICYuRmFpbCB7CiAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChjcmVhdGVDb21tb25TdHlsZVVybCgnaWNvbnMvcmVkLXgucG5nJykpOwogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXJGYWN0b3J5ID0gc2VsZi52YWxpZGF0ZVByZXNlbnRlckZhY3RvcnkoKQogICAgICAgIHByZXNlbnRlciA9IHByZXNlbnRlckZhY3RvcnkuY3JlYXRlVXBkYXRlUHJlc2VudGVyKCkKCiAgICAgICAgY29udGV4dCA9IHByZXNlbnRlci5nZXRVcGRhdGVDb250ZXh0KCkKICAgICAgICBzZWxmLndyaXRlKHNlbGYuX2dldEpzb25EdW1wRm9yT2JqKGNvbnRleHQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuRW5yb2xsbWVudE1lc3NhZ2UgewogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgcGFkZGluZzogMjBweCAxMHB4OwogICAgZm9udC1zaXplOiAxLjVyZW07CiAgfQoK</text>
+        <text encoding="base64">Lkljb24gewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKCiAgJi5TdWNjZXNzLCAmLkZhaWwgewogICAgJHNpemU6IDQwcHg7CiAgICB3aWR0aDogJHNpemU7CiAgICBoZWlnaHQ6ICRzaXplOwogICAgYmFja2dyb3VuZC1zaXplOiAkc2l6ZSAkc2l6ZTsKICB9CgogICYuU3VjY2VzcyB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoY3JlYXRlQ29tbW9uU3R5bGVVcmwoJ2ljb25zL2dyZWVuLWNoZWNrYm94LnBuZycpKTsKICB9CgogICYuRmFpbCB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoY3JlYXRlQ29tbW9uU3R5bGVVcmwoJ2ljb25zL3JlZC14LnBuZycpKTsKICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqYXNtaW5lLmlzU3B5KG9ialdlYlNvY2tldFNlcnZpY2UucmVnaXN0ZXJMaXN0ZW5lcikpOwo=</text>
+        <text encoding="base64">ICAuSWNvbiB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CgogICAgJi5TdWNjZXNzLCAmLkZhaWwgewogICAgICAkc2l6ZTogNDBweDsKICAgICAgd2lkdGg6ICRzaXplOwogICAgICBoZWlnaHQ6ICRzaXplOwogICAgICBiYWNrZ3JvdW5kLXNpemU6ICRzaXplICRzaXplOwogICAgfQoKICAgICYuU3VjY2VzcyB7CiAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChjcmVhdGVDb21tb25TdHlsZVVybCgnaWNvbnMvZ3JlZW4tY2hlY2tib3gucG5nJykpOwogICAgfQoKICAgICYuRmFpbCB7CiAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChjcmVhdGVDb21tb25TdHlsZVVybCgnaWNvbnMvcmVkLXgucG5nJykpOwogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAuRW5yb2xsbWVudE1lc3NhZ2UgewogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgcGFkZGluZzogMjBweCAxMHB4OwogICAgZm9udC1zaXplOiAxLjVyZW07CiAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqYXNtaW5lLmlzU3B5KG9ialdlYlNvY2tldFNlcnZpY2UucmVnaXN0ZXJMaXN0ZW5lcikpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIH0pOwo=</text>
@@ -1583,21 +1600,20 @@
         <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3JlbW92ZU1vZGFsL3Nob3dTdWNjZXNzTWVzc2FnZS9n</text>
+        <text encoding="base64">JzwsJz5zL1Rlcm1pbmFsU3RhdHVzL1VwZGF0ZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>removeModal</last-search>
+      <last-search>TerminalStatus</last-search>
       <last-offset />
-      <last-pattern>removeModal</last-pattern>
-      <last-replace>showSuccessMessage</last-replace>
-      <last-substitute>removeModal</last-substitute>
+      <last-pattern>TerminalStatus</last-pattern>
+      <last-replace>Update</last-replace>
+      <last-substitute>TerminalStatus</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>get</entry>
         <entry>4on</entry>
         <entry>$on</entry>
@@ -1617,9 +1633,9 @@
         <entry encoding="base64">IDo=</entry>
         <entry>function canConfig</entry>
         <entry>removeModal</entry>
+        <entry>TerminalStatus</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//_configureCompanyLocationPreview/g</entry>
         <entry>%s//getCompanyLocationPreview/g</entry>
         <entry encoding="base64">JzwsJz5zL29iakZpbHRlclN0YXR1cy9vYmpGaWx0ZXJCdXR0b24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Njb3BlLm9iakZpbHRlclN0YXR1cy9vYmpGaWx0ZXJCdXR0b24vZw==</entry>
@@ -1639,6 +1655,7 @@
         <entry encoding="base64">JzwsJz5zL1woW2Etel1cKS9fXHVcMS9n</entry>
         <entry encoding="base64">JzwsJz5zLyA6LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlbW92ZU1vZGFsL3Nob3dTdWNjZXNzTWVzc2FnZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1Rlcm1pbmFsU3RhdHVzL1VwZGF0ZS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
