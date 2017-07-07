@@ -1,15 +1,9 @@
 <application>
   <component name="libraryTable">
     <library name="angular-scenarios" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Work/tcp-we-70/client/test/lib/angular-1.2.28" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://D:/Work/tcp-we-70/client/test/lib/angular/angular-mocks.js" />
         <root url="file://D:/Work/tcp-we-70/client/test/lib/angular/angular-scenario.js" />
-        <root url="file://$USER_HOME$/Work/tcp-we-70/client/test/lib/angular-1.2.28" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -26,15 +20,9 @@
       <SOURCES />
     </library>
     <library name="closure" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Work/tcp-we-70/client/app/lib/closure-library" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://D:/Work/tcp-we-70/client/app/lib/closure-compiler" />
         <root url="file://D:/Work/tcp-we-70/client/app/lib/closure-library" />
-        <root url="file://$USER_HOME$/Work/tcp-we-70/client/app/lib/closure-library" />
       </CLASSES>
       <SOURCES />
     </library>
