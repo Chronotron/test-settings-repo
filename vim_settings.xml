@@ -150,12 +150,6 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" timestamp="1494012856305">
-        <mark key="'" line="51" column="9" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="51" column="10" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/menu/menu.js" timestamp="1487802733912">
         <mark key="[" line="193" column="24" />
         <mark key="]" line="193" column="14" />
@@ -591,7 +585,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494019450770">
+      <file name="/Dummy.txt" timestamp="1499464156652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/scheduleCalendarDay.html" timestamp="1486768821563">
@@ -610,7 +604,7 @@
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
-        <mark key="^" line="106" column="55" />
+        <mark key="^" line="110" column="55" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpOccurrenceRuleGeneralDirective.js" timestamp="1484237182298">
         <mark key="[" line="15" column="0" />
@@ -818,7 +812,7 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1499451543747">
+      <file name="/Python Console" timestamp="1499463979796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/coveredEmployeeList.html" timestamp="1487276268084">
@@ -1215,6 +1209,9 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="6" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" timestamp="1499464169534">
+        <mark key="'" line="0" column="7" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/scheduler/js/data/globalMod/modifyScheduleSegmentData.js" timestamp="1485814807881">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="48" column="45" />
@@ -1259,8 +1256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="5" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
-      <jump line="321" column="62" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
       <jump line="31" column="0" filename="D:/Work/tcp-we-70/client/build/javascript/requires-manager.js" />
       <jump line="13" column="0" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
       <jump line="24" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
@@ -1359,6 +1354,8 @@
       <jump line="118" column="54" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
       <jump line="51" column="9" filename="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" />
+      <jump line="33" column="90" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1575,7 +1572,7 @@
         <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>TerminalStatus</text>
+        <text encoding="base64">XDxweXR6XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSBVcGRhdGVTdGF0dXMoKQogICAgICAgIHVwZGF0ZVN0YXR1cy5jb21wbGV0ZSA9IEZhbHNlCiAgICAgICAgdXBkYXRlU3RhdHVzLm91dHB1dCA9IFsKICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAogICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICJDb21wbGV0ZSIKICAgICAgICBdCg==</text>
@@ -1612,9 +1609,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TerminalStatus</last-search>
+      <last-search encoding="base64">XDxweXR6XD4=</last-search>
       <last-offset />
-      <last-pattern>TerminalStatus</last-pattern>
+      <last-pattern encoding="base64">XDxweXR6XD4=</last-pattern>
       <last-replace>Update</last-replace>
       <last-substitute>TerminalStatus</last-substitute>
       <last-dir>1</last-dir>
@@ -1622,7 +1619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>4on</entry>
         <entry>$on</entry>
         <entry encoding="base64">XDx3ZWJzb2NrZXRTdGF0dXNcPg==</entry>
@@ -1642,6 +1638,7 @@
         <entry>function canConfig</entry>
         <entry>removeModal</entry>
         <entry>TerminalStatus</entry>
+        <entry encoding="base64">XDxweXR6XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s//getCompanyLocationPreview/g</entry>
