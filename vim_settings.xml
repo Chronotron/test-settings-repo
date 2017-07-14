@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/Work/tcp-we-70/client/build/scratch.txt" timestamp="1484337738196">
@@ -297,6 +297,13 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500070243579">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/inc/default/manageEmployee/occurrences.html" timestamp="1485814014276">
         <mark key="[" line="4" column="153" />
@@ -854,6 +861,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.component.js" timestamp="1500070107736">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="13" column="71" />
+        <mark key="^" line="13" column="71" />
+        <mark key="." line="13" column="71" />
+      </file>
       <file name="D:/Work/tcp-tl-70/client/scripts/link-core.bat" timestamp="1490024306377">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="35" />
@@ -964,6 +977,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/controller/dashboard/dashboardController.js" timestamp="1500069383108" />
       <file name="D:/Work/tcp-we-70/client/etc/spec/manager/data/selectOccurrenceRuleData.spec" timestamp="1484322027927">
         <mark key="[" line="1" column="47" />
         <mark key="]" line="1" column="27" />
@@ -1231,9 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="3" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
-      <jump line="160" column="5" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
-      <jump line="321" column="62" filename="D:/Work/tcp-tl-70/client/app/core/lib/closure-library/closure/goog/base.js" />
       <jump line="31" column="0" filename="D:/Work/tcp-we-70/client/build/javascript/requires-manager.js" />
       <jump line="13" column="0" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
       <jump line="24" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
@@ -1331,6 +1342,9 @@
       <jump line="81" column="16" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
       <jump line="118" column="54" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
       <jump line="51" column="9" filename="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" />
+      <jump line="35" column="34" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" />
+      <jump line="48" column="22" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" />
+      <jump line="24" column="16" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1355,8 +1369,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>common</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVRpbWVPZmZSZXF1ZXN0czoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiVGltZU9mZlJlcXVlc3RzIik7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1544,60 +1558,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>controller.isEditMode() ? &quot;&quot; :</text>
       </register>
       <register name="/" type="4">
-        <text>removeModal</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gJCggZmluZCBhcHAvY29tbW9uIC1uYW1lICIqLmh0bWwiICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lkljb24gewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKCiAgJi5TdWNjZXNzLCAmLkZhaWwgewogICAgJHNpemU6IDQwcHg7CiAgICB3aWR0aDogJHNpemU7CiAgICBoZWlnaHQ6ICRzaXplOwogICAgYmFja2dyb3VuZC1zaXplOiAkc2l6ZSAkc2l6ZTsKICB9CgogICYuU3VjY2VzcyB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoY3JlYXRlQ29tbW9uU3R5bGVVcmwoJ2ljb25zL2dyZWVuLWNoZWNrYm94LnBuZycpKTsKICB9CgogICYuRmFpbCB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoY3JlYXRlQ29tbW9uU3R5bGVVcmwoJ2ljb25zL3JlZC14LnBuZycpKTsKICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVRpbWVPZmZSZXF1ZXN0czoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiVGltZU9mZlJlcXVlc3RzIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuSWNvbiB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CgogICAgJi5TdWNjZXNzLCAmLkZhaWwgewogICAgICAkc2l6ZTogNDBweDsKICAgICAgd2lkdGg6ICRzaXplOwogICAgICBoZWlnaHQ6ICRzaXplOwogICAgICBiYWNrZ3JvdW5kLXNpemU6ICRzaXplICRzaXplOwogICAgfQoKICAgICYuU3VjY2VzcyB7CiAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChjcmVhdGVDb21tb25TdHlsZVVybCgnaWNvbnMvZ3JlZW4tY2hlY2tib3gucG5nJykpOwogICAgfQoKICAgICYuRmFpbCB7CiAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChjcmVhdGVDb21tb25TdHlsZVVybCgnaWNvbnMvcmVkLXgucG5nJykpOwogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVN1YlZhY2FuY2llczoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiU3ViVmFjYW5jaWVzIik7CiAgICAgICAgICAgICAgICBjYXNlIGNvbnRyb2xsZXIuY29uZmlnLmludFdpZGdldFR5cGVGTUxBQ2FzZVN0YXR1czoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiRk1MQUNhc2VTdGF0dXMiKTsKICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZUZNTEFFeHBlY3RlZFJldHVybkRhdGU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGNvbnRyb2xsZXIuX2dldFdpZGdldFRlbXBsYXRlSWQoIkZNTEFFeHBlY3RlZFJldHVybkRhdGUiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuRW5yb2xsbWVudE1lc3NhZ2UgewogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgcGFkZGluZzogMjBweCAxMHB4OwogICAgZm9udC1zaXplOiAxLjVyZW07CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVJlbWluZGVyOgogICAgICAgICAgICAgICAgICAgIHZhciBzdHJSZW1pbmRlcklkID0gY29udHJvbGxlci5pc0VkaXRNb2RlKCkgPyBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfUkVNSU5ERVJTX1dJREdFVF9FRElUIDogY29tbW9uSW5jbHVkZXMuREFTSEJPQVJEX1JFTUlOREVSU19XSURHRVQ7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9ialVybEJ1aWxkZXIuZ2V0SW5jbHVkZVVybChzdHJSZW1pbmRlcklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqYXNtaW5lLmlzU3B5KG9ialdlYlNvY2tldFNlcnZpY2UucmVnaXN0ZXJMaXN0ZW5lcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVBsYWNlaG9sZGVyOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBvYmpVcmxCdWlsZGVyLmdldEluY2x1ZGVVcmwoY29tbW9uSW5jbHVkZXMuREFTSEJPQVJEX1BMQUNFSE9MREVSX1dJREdFVCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZUxpbmtzOgogICAgICAgICAgICAgICAgICAgIHZhciBzdHJMaW5rc0lkID0gY29udHJvbGxlci5pc0VkaXRNb2RlKCkgPyBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfTElOS1NfV0lER0VUX0VESVQgOiBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfTElOS1NfV0lER0VUOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBvYmpVcmxCdWlsZGVyLmdldEluY2x1ZGVVcmwoc3RyTGlua3NJZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVNjaGVkdWxlQ29tcGxldGlvbkNoYXJ0OgogICAgICAgICAgICAgICAgICAgIHJldHVybiBjb250cm9sbGVyLl9nZXRXaWRnZXRUZW1wbGF0ZUlkKCJTY2hlZHVsZUNvbXBsZXRpb25DaGFydCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBjb250cm9sbGVyLmNvbmZpZy5pbnRXaWRnZXRUeXBlT3ZlcnRpbWVCeURlcGFydG1lbnRDaGFydDoKICAgICAgICAgICAgICAgIHJldHVybiBjb250cm9sbGVyLl9nZXRXaWRnZXRUZW1wbGF0ZUlkKCJPdmVydGltZUJ5RGVwYXJ0bWVudENoYXJ0Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBjb250cm9sbGVyLmNvbmZpZy5pbnRXaWRnZXRUeXBlSm9iQ29kZVVzYWdlQ2hhcnQ6CiAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiSm9iQ29kZVVzYWdlQ2hhcnQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBjb250cm9sbGVyLmNvbmZpZy5pbnRXaWRnZXRUeXBlSm9iQ29kZUJyZWFrZG93bkNoYXJ0OgogICAgICAgICAgICAgICAgcmV0dXJuIGNvbnRyb2xsZXIuX2dldFdpZGdldFRlbXBsYXRlSWQoIkpvYkNvZGVCcmVha2Rvd25DaGFydCIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3JlbW92ZU1vZGFsL3Nob3dTdWNjZXNzTWVzc2FnZS9n</text>
+        <text encoding="base64">JzwsJz5zL2NvbmZpZy9jb250cm9sbGVyLmNvbmZpZy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>removeModal</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>removeModal</last-pattern>
-      <last-replace>showSuccessMessage</last-replace>
-      <last-substitute>removeModal</last-substitute>
+      <last-pattern>config</last-pattern>
+      <last-replace>controller.config</last-replace>
+      <last-substitute>config</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry>get</entry>
-        <entry>4on</entry>
-        <entry>$on</entry>
         <entry encoding="base64">XDx3ZWJzb2NrZXRTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxnZXRQcmltaXRpdmVKc1Byb3BlcnRpZXNcPg==</entry>
         <entry>createCs</entry>
@@ -1614,12 +1624,12 @@
         <entry encoding="base64">IDo=</entry>
         <entry>function canConfig</entry>
         <entry>removeModal</entry>
+        <entry>$scope</entry>
+        <entry>controller.getIncludeUrl</entry>
+        <entry>objWidget</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//_configureCompanyLocationPreview/g</entry>
-        <entry>%s//getCompanyLocationPreview/g</entry>
-        <entry encoding="base64">JzwsJz5zL29iakZpbHRlclN0YXR1cy9vYmpGaWx0ZXJCdXR0b24vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3Njb3BlLm9iakZpbHRlclN0YXR1cy9vYmpGaWx0ZXJCdXR0b24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0VtcGxveWVlLy9n</entry>
         <entry>s/CostCode/CustomField/g</entry>
         <entry>s/CustomField/Employee/g</entry>
@@ -1636,6 +1646,10 @@
         <entry encoding="base64">JzwsJz5zL1woW2Etel1cKS9fXHVcMS9n</entry>
         <entry encoding="base64">JzwsJz5zLyA6LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlbW92ZU1vZGFsL3Nob3dTdWNjZXNzTWVzc2FnZS9n</entry>
+        <entry>%s/$scope/controller/g</entry>
+        <entry>%s/controller.getIncludeUrl/objUrlBuilder.getIncludeUrl/g</entry>
+        <entry encoding="base64">JzwsJz5zL29ialdpZGdldC9jb250cm9sbGVyLm9ialdpZGdldC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jb250cm9sbGVyLmNvbmZpZy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
