@@ -147,6 +147,13 @@
         <mark key="^" line="168" column="51" />
         <mark key="." line="168" column="51" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" timestamp="1500304055766">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" timestamp="1500073481767">
         <mark key="'" line="51" column="9" />
         <mark key="[" line="68" column="68" />
@@ -226,10 +233,6 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/directive/viewCompanyLocation/tcpViewCompanyLocation.directive.js" timestamp="1495563689686">
-        <mark key="[" line="17" column="27" />
-        <mark key="." line="17" column="1374" />
-      </file>
       <file name="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptProperty.rb" timestamp="1490021481008">
         <mark key="[" line="24" column="66" />
         <mark key="]" line="25" column="0" />
@@ -305,9 +308,9 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500299636563">
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500302437957">
         <mark key="'" line="11" column="71" />
-        <mark key="[" line="10" column="19" />
+        <mark key="[" line="50" column="66" />
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="19" />
         <mark key="^" line="22" column="72" />
@@ -645,6 +648,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetController.js" timestamp="1500302914507">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/webclock/inc/default/logOnBody.html" timestamp="1494018840617">
         <mark key="[" line="31" column="46" />
         <mark key="]" line="31" column="63" />
@@ -657,6 +666,12 @@
         <mark key="]" line="34" column="51" />
         <mark key="^" line="34" column="51" />
         <mark key="." line="34" column="51" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestWidget.html" timestamp="1500303375046">
+        <mark key="[" line="0" column="92" />
+        <mark key="]" line="0" column="90" />
+        <mark key="." line="0" column="90" />
+        <mark key="^" line="0" column="90" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/uiDomain/managerDefaultIncludeUrlMap.js" timestamp="1486736936402">
         <mark key="[" line="19" column="0" />
@@ -742,6 +757,7 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/inc/default/dashboard/dashboardDropRequestsWidget.html" timestamp="1500302538155" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/data/occurrenceRules/addOccurrenceRuleData.js" timestamp="1484151156566">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="23" />
@@ -766,11 +782,11 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.html" timestamp="1500072008398">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="74" />
-        <mark key="." line="0" column="74" />
-        <mark key="^" line="0" column="74" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.html" timestamp="1500303359034">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/modal/default/importFeature/ImportTaskInformation.html" timestamp="1482166033867">
         <mark key="[" line="7" column="13" />
@@ -841,11 +857,10 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.component.js" timestamp="1500300274929">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="13" column="71" />
-        <mark key="^" line="13" column="71" />
-        <mark key="." line="13" column="71" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.component.js" timestamp="1500304428597">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/dateTimeInput.js" timestamp="1486392199370">
         <mark key="[" line="9" column="24" />
@@ -859,11 +874,11 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView-entry.js" timestamp="1500071628249">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-        <mark key="." line="7" column="43" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView-entry.js" timestamp="1500303172341">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/scheduler/js/controller/masterSchedule/selectDefaultEmployeeController.js" timestamp="1482194232839">
         <mark key="[" line="12" column="73" />
@@ -889,12 +904,12 @@
         <mark key="^" line="13" column="33" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" timestamp="1500072357421">
-        <mark key="'" line="35" column="25" />
-        <mark key="[" line="24" column="184" />
-        <mark key="]" line="24" column="161" />
-        <mark key="^" line="24" column="161" />
-        <mark key="." line="24" column="161" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" timestamp="1500303345285">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="42" column="60" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/scheduler/modal/default/AddScheduleTemplate.html" timestamp="1485296827886">
         <mark key="[" line="2" column="34" />
@@ -1088,11 +1103,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetNavigator.component.js" timestamp="1500301752582">
-        <mark key="[" line="8" column="145" />
-        <mark key="]" line="8" column="197" />
-        <mark key="." line="8" column="145" />
-        <mark key="^" line="36" column="61" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetNavigator.component.js" timestamp="1500304420212">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/context/manageEmployee/employeeOccurrenceRuleContext.js" timestamp="1484338379225">
         <mark key="[" line="19" column="12" />
@@ -1228,19 +1243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="38" filename="D:/Work/tcp-tl-70/client/build/javascript/deviceConfiguration/manifest.txt" />
-      <jump line="38" column="29" filename="D:/Work/tcp-tl-70/client/build/javascript/deviceConfiguration/manifest.txt" />
-      <jump line="12342" column="45" filename="D:/Work/tcp-tl-70/client/app/lib/tcpwe/tcpwe.deviceConfiguration.min.js" />
-      <jump line="12" column="4" filename="D:/Work/tcp-tl-70/client/app/core/common/js/helper/globalFunctions.js" />
-      <jump line="0" column="0" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="2" column="19" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="37" column="22" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="39" column="100" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="41" column="24" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="47" column="24" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="49" column="101" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="51" column="13" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="55" column="39" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
       <jump line="56" column="61" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
       <jump line="27" column="12" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
       <jump line="32" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
@@ -1298,14 +1300,12 @@
       <jump line="27" column="8" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="19" column="49" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="6" column="62" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
-      <jump line="18" column="24" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="20" column="159" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="21" column="102" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="22" column="28" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="23" column="174" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="30" column="25" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="12" column="22" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="14" column="33" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="41" column="38" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="53" column="17" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
@@ -1317,7 +1317,6 @@
       <jump line="8" column="19" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="10" column="81" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="24" column="181" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
-      <jump line="35" column="25" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/config/karma-embeddedClock.conf.js" />
       <jump line="1197" column="51" filename="$USER_HOME$/Work/tcp-tl-70/client/config/karma-embeddedClock.conf.js" />
       <jump line="54" column="61" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/layoutHeader/tcpLayoutHeader.directive.js" />
@@ -1328,6 +1327,22 @@
       <jump line="5" column="16" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/includes/pageHeader.html" />
       <jump line="1" column="49" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/includes/pageHeader.html" />
       <jump line="54" column="89" filename="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/directive/applicationControls/sessionTimeoutMessageDirective.js" />
+      <jump line="18" column="20" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
+      <jump line="28" column="31" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
+      <jump line="46" column="44" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
+      <jump line="49" column="17" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
+      <jump line="13" column="22" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="12" column="33" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="14" column="22" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="31" column="12" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="10" column="38" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="15" column="33" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="16" column="116" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="17" column="118" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="25" column="92" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="26" column="96" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
+      <jump line="29" column="18" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1352,8 +1367,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHNwYW4gbmctY2xpY2s9ImNvbnRyb2xsZXIubmV4dFdpZGdldCgpIj5OZXh0PC9zcGFuPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnPC9uZy10cmFuc2NsdWRlPicgKwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1541,69 +1556,64 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNwYW4gbmctY2xpY2s9ImNvbnRyb2xsZXIubmV4dFdpZGdldCgpIj5OZXh0PC9zcGFuPg==</text>
+        <text>{{controller.objWidget | json}}</text>
       </register>
       <register name="/" type="4">
-        <text>getCompanyConfig</text>
+        <text>objWidget</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gJCggZmluZCBhcHAvY29tbW9uIC1uYW1lICIqLmh0bWwiICApCg==</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCd0Y3B3ZS53aWRnZXRWaWV3TW9kdWxlJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFvYmpNZW51LmFyck1lbnVJdGVtcy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnPC9uZy10cmFuc2NsdWRlPicgKwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnPG5nLXRyYW5zY2x1ZGU+JyArCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iak1lbnUgPSBnZXRNZW51KCk7CiAgICAgICAgICAgIGlmICghb2JqTWVudSB8fCAhY29udHJvbGxlci5vYmpXaWRnZXQpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYoIW9iak1lbnUuYXJyTWVudUl0ZW1zLmxlbmd0aCkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgaW50SW5kZXggPSBnb29nLmFycmF5LmZpbmRJbmRleChvYmpNZW51LmFyck1lbnVJdGVtcywgZnVuY3Rpb24gKG9iak1lbnVJdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gb2JqTWVudUl0ZW0uc3RyTWVudUNvbW1hbmQgPT09IGNvbnRyb2xsZXIub2JqV2lkZ2V0LmdldEtleSgpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGlmKGludEluZGV4ID09PSAtMSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpbnRJbmRleCArPSBpbnRPZmZlc3Q7CiAgICAgICAgICAgIHZhciBvYmpNZW51SXRlbSA9IG9iak1lbnUuYXJyTWVudUl0ZW1zW2ludEluZGV4XTsKICAgICAgICAgICAgaWYoIW9iak1lbnVJdGVtKSB7CiAgICAgICAgICAgICAgICBvYmpNZW51SXRlbSA9IG9iak1lbnUuYXJyTWVudUl0ZW1zWzBdOwogICAgICAgICAgICB9CgogICAgICAgICAgICBvYmpNZW51LmhhbmRsZU1lbnVDb21tYW5kKG9iak1lbnVJdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAnPC9uZy10cmFuc2NsdWRlPicgKwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGludE9mZmVzdCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnPHRjcC13aWRnZXQgd2lkZ2V0PSJjb250cm9sbGVyLmdldFdpZGdldCgpIiBjb25maWc9ImNvbnRyb2xsZXIuZ2V0RGFzaGJvYXJkQ29uZmlnKCkiPjwvdGNwLXdpZGdldD4nICsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvYmpXaWRnZXRWaWV3RGF0YSA9IG9ialdpZGdldFZpZXdDb250ZXh0Lm9ialdpZGdldFZpZXdEYXRhIHx8IG9ialdpZGdldFZpZXdEYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAnPHRjcC13aWRnZXQtbmF2aWdhdG9yIHdpZGdldD0iY29udHJvbGxlci5nZXRXaWRnZXQoKSI+JyArCiAgICAgICAgJzwvdGNwLXdpZGdldC1uYXZpZ2F0b3I+JyArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc3RyRW1wbG95ZWVTZWdtZW50SWQgPSBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfRU1QTE9ZRUVfU0VHTUVOVF9XSURHRVQ7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9ialVybEJ1aWxkZXIuZ2V0SW5jbHVkZVVybChzdHJFbXBsb3llZVNlZ21lbjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVRpbWVPZmZSZXF1ZXN0czoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiVGltZU9mZlJlcXVlc3RzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2dldENvbXBhbnlDb25maWcvY29udHJvbGxlci5nZXRDb21wYW55Q29uZmlnL2c=</text>
+        <text encoding="base64">JzwsJz5zL29ialdpZGdldC9jb250cm9sbGVyLm9ialdpZGdldC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>getCompanyConfig</last-search>
+      <last-search>objWidget</last-search>
       <last-offset />
-      <last-pattern>getCompanyConfig</last-pattern>
-      <last-replace>controller.getCompanyConfig</last-replace>
-      <last-substitute>getCompanyConfig</last-substitute>
+      <last-pattern>objWidget</last-pattern>
+      <last-replace>controller.objWidget</last-replace>
+      <last-substitute>objWidget</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>([a-z])</entry>
-        <entry>\([a-z]\)</entry>
-        <entry encoding="base64">IDo=</entry>
         <entry>function canConfig</entry>
         <entry>removeModal</entry>
         <entry>$scope</entry>
         <entry>controller.getIncludeUrl</entry>
-        <entry>objWidget</entry>
         <entry>config</entry>
         <entry>widget.</entry>
         <entry>widget\.</entry>
         <entry>widget</entry>
-        <entry encoding="base64">XDxnZXRBcHBDb25maWdcPg==</entry>
         <entry>getWidgetItems</entry>
         <entry>getTableCaptions</entry>
         <entry encoding="base64">XDx3aWRnZXRcPg==</entry>
@@ -1611,10 +1621,13 @@
         <entry>shouldShow</entry>
         <entry>session</entry>
         <entry>getCompanyConfig</entry>
+        <entry encoding="base64">XDxoYXNNYXN0ZXJTaGlmdFByZXZpZXdzXD4=</entry>
+        <entry encoding="base64">XDxnZXRDb21wYW55Q29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxnZXRBcHBDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry>objWidget</entry>
       </history-search>
       <history-cmd>
-        <entry>s/CustomField/MasterSchedule/g</entry>
-        <entry>s/CustomField/MasterShift/g</entry>
         <entry>s/CustomField/ScheduleSegment/g</entry>
         <entry>76</entry>
         <entry>%s//pyProperty/g</entry>
@@ -1627,12 +1640,14 @@
         <entry encoding="base64">JzwsJz5zL3JlbW92ZU1vZGFsL3Nob3dTdWNjZXNzTWVzc2FnZS9n</entry>
         <entry>%s/$scope/controller/g</entry>
         <entry>%s/controller.getIncludeUrl/objUrlBuilder.getIncludeUrl/g</entry>
-        <entry encoding="base64">JzwsJz5zL29ialdpZGdldC9jb250cm9sbGVyLm9ialdpZGdldC9n</entry>
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jb250cm9sbGVyLmNvbmZpZy9n</entry>
         <entry encoding="base64">JzwsJz5zL3dpZGdldC4vY29udHJvbGxlci5vYmpXaWRnZXQuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpZGdldFwuL2NvbnRyb2xsZXIub2JqV2lkZ2V0Li9n</entry>
         <entry>%s//controller.getAppConfig/g</entry>
         <entry encoding="base64">JzwsJz5zL2dldENvbXBhbnlDb25maWcvY29udHJvbGxlci5nZXRDb21wYW55Q29uZmlnL2c=</entry>
+        <entry>%s//controller.getCompanyConfig/g</entry>
+        <entry>%s//controller.config/g</entry>
+        <entry encoding="base64">JzwsJz5zL29ialdpZGdldC9jb250cm9sbGVyLm9ialdpZGdldC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
