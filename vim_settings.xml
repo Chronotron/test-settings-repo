@@ -305,7 +305,7 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500071985713">
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500299636563">
         <mark key="'" line="11" column="71" />
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
@@ -486,7 +486,6 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/controller/dashboard/dashboardEmployeeSegmentWidgetController.js" timestamp="1500071403654" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/builder/terminalsUrlBuilder.js" timestamp="1487973291119">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="16" column="0" />
@@ -523,7 +522,6 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/helper/logging.js" timestamp="1500073702419" />
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/directive/applicationControls/sessionTimeoutMessageDirective.js" timestamp="1500073907172">
         <mark key="'" line="54" column="89" />
         <mark key="[" line="49" column="0" />
@@ -678,7 +676,6 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/lib/angularjs/angular-mocks.js" timestamp="1500073525997" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/controller/globalMod/globalModSelectOccurrenceRuleController.js" timestamp="1484695711245">
         <mark key="[" line="30" column="106" />
         <mark key="]" line="31" column="48" />
@@ -703,13 +700,18 @@
         <mark key="." line="214" column="31" />
         <mark key="^" line="214" column="31" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.service.js" timestamp="1500301212532">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="76" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/embeddedClock/embeddedClock.controller.js" timestamp="1494024525912">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="13" />
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/inc/default/dashboard/dashboardEmployeeSegmentWidget.html" timestamp="1500070830399" />
       <file name="D:/Work/tcp-we-70/client/app/common/js/data/companyLocations/viewCompanyLocationData.js" timestamp="1486751686695">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="11" column="41" />
@@ -839,8 +841,8 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.component.js" timestamp="1500070107736">
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.component.js" timestamp="1500300274929">
+        <mark key="[" line="11" column="30" />
         <mark key="]" line="13" column="71" />
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
@@ -1085,6 +1087,12 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetNavigator.component.js" timestamp="1500301752582">
+        <mark key="[" line="8" column="145" />
+        <mark key="]" line="8" column="197" />
+        <mark key="." line="8" column="145" />
+        <mark key="^" line="36" column="61" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/context/manageEmployee/employeeOccurrenceRuleContext.js" timestamp="1484338379225">
         <mark key="[" line="19" column="12" />
@@ -1344,8 +1352,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHNwYW4gbmctY2xpY2s9ImNvbnRyb2xsZXIubmV4dFdpZGdldCgpIj5OZXh0PC9zcGFuPg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1533,7 +1541,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">PHNwYW4gbmctY2xpY2s9ImNvbnRyb2xsZXIubmV4dFdpZGdldCgpIj5OZXh0PC9zcGFuPg==</text>
       </register>
       <register name="/" type="4">
         <text>getCompanyConfig</text>
@@ -1541,32 +1549,32 @@
       <register name="0" type="2">
         <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gJCggZmluZCBhcHAvY29tbW9uIC1uYW1lICIqLmh0bWwiICApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFvYmpNZW51LmFyck1lbnVJdGVtcy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc3RyRW1wbG95ZWVTZWdtZW50SWQgPSBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfRU1QTE9ZRUVfU0VHTUVOVF9XSURHRVQ7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9ialVybEJ1aWxkZXIuZ2V0SW5jbHVkZVVybChzdHJFbXBsb3llZVNlZ21lbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iak1lbnUgPSBnZXRNZW51KCk7CiAgICAgICAgICAgIGlmICghb2JqTWVudSB8fCAhY29udHJvbGxlci5vYmpXaWRnZXQpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYoIW9iak1lbnUuYXJyTWVudUl0ZW1zLmxlbmd0aCkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgaW50SW5kZXggPSBnb29nLmFycmF5LmZpbmRJbmRleChvYmpNZW51LmFyck1lbnVJdGVtcywgZnVuY3Rpb24gKG9iak1lbnVJdGVtKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gb2JqTWVudUl0ZW0uc3RyTWVudUNvbW1hbmQgPT09IGNvbnRyb2xsZXIub2JqV2lkZ2V0LmdldEtleSgpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGlmKGludEluZGV4ID09PSAtMSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpbnRJbmRleCArPSBpbnRPZmZlc3Q7CiAgICAgICAgICAgIHZhciBvYmpNZW51SXRlbSA9IG9iak1lbnUuYXJyTWVudUl0ZW1zW2ludEluZGV4XTsKICAgICAgICAgICAgaWYoIW9iak1lbnVJdGVtKSB7CiAgICAgICAgICAgICAgICBvYmpNZW51SXRlbSA9IG9iak1lbnUuYXJyTWVudUl0ZW1zWzBdOwogICAgICAgICAgICB9CgogICAgICAgICAgICBvYmpNZW51LmhhbmRsZU1lbnVDb21tYW5kKG9iak1lbnVJdGVtKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVRpbWVPZmZSZXF1ZXN0czoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiVGltZU9mZlJlcXVlc3RzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGludE9mZmVzdCA9IDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVN1YlZhY2FuY2llczoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiU3ViVmFjYW5jaWVzIik7CiAgICAgICAgICAgICAgICBjYXNlIGNvbnRyb2xsZXIuY29uZmlnLmludFdpZGdldFR5cGVGTUxBQ2FzZVN0YXR1czoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiRk1MQUNhc2VTdGF0dXMiKTsKICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZUZNTEFFeHBlY3RlZFJldHVybkRhdGU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGNvbnRyb2xsZXIuX2dldFdpZGdldFRlbXBsYXRlSWQoIkZNTEFFeHBlY3RlZFJldHVybkRhdGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvYmpXaWRnZXRWaWV3RGF0YSA9IG9ialdpZGdldFZpZXdDb250ZXh0Lm9ialdpZGdldFZpZXdEYXRhIHx8IG9ialdpZGdldFZpZXdEYXRhOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVJlbWluZGVyOgogICAgICAgICAgICAgICAgICAgIHZhciBzdHJSZW1pbmRlcklkID0gY29udHJvbGxlci5pc0VkaXRNb2RlKCkgPyBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfUkVNSU5ERVJTX1dJREdFVF9FRElUIDogY29tbW9uSW5jbHVkZXMuREFTSEJPQVJEX1JFTUlOREVSU19XSURHRVQ7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9ialVybEJ1aWxkZXIuZ2V0SW5jbHVkZVVybChzdHJSZW1pbmRlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVBsYWNlaG9sZGVyOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBvYmpVcmxCdWlsZGVyLmdldEluY2x1ZGVVcmwoY29tbW9uSW5jbHVkZXMuREFTSEJPQVJEX1BMQUNFSE9MREVSX1dJREdFVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc3RyRW1wbG95ZWVTZWdtZW50SWQgPSBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfRU1QTE9ZRUVfU0VHTUVOVF9XSURHRVQ7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9ialVybEJ1aWxkZXIuZ2V0SW5jbHVkZVVybChzdHJFbXBsb3llZVNlZ21lbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZUxpbmtzOgogICAgICAgICAgICAgICAgICAgIHZhciBzdHJMaW5rc0lkID0gY29udHJvbGxlci5pc0VkaXRNb2RlKCkgPyBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfTElOS1NfV0lER0VUX0VESVQgOiBjb21tb25JbmNsdWRlcy5EQVNIQk9BUkRfTElOS1NfV0lER0VUOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBvYmpVcmxCdWlsZGVyLmdldEluY2x1ZGVVcmwoc3RyTGlua3NJZCk7Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVNjaGVkdWxlQ29tcGxldGlvbkNoYXJ0OgogICAgICAgICAgICAgICAgICAgIHJldHVybiBjb250cm9sbGVyLl9nZXRXaWRnZXRUZW1wbGF0ZUlkKCJTY2hlZHVsZUNvbXBsZXRpb25DaGFydCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgY29udHJvbGxlci5jb25maWcuaW50V2lkZ2V0VHlwZVRpbWVPZmZSZXF1ZXN0czoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY29udHJvbGxlci5fZ2V0V2lkZ2V0VGVtcGxhdGVJZCgiVGltZU9mZlJlcXVlc3RzIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dldENvbXBhbnlDb25maWcvY29udHJvbGxlci5nZXRDb21wYW55Q29uZmlnL2c=</text>
