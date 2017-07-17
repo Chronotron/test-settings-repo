@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/Work/tcp-we-70/client/build/scratch.txt" timestamp="1484337738196">
@@ -549,6 +549,7 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="315" column="26" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/uiDomain/urlConstants.js" timestamp="1500305028258" />
       <file name="D:/Work/tcp-we-70/client/app/manager/inc/default/occurrenceRules/occurrenceRuleGeneral.html" timestamp="1484755328433">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
