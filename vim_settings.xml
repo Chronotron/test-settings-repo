@@ -18,7 +18,6 @@
       <file name="/a.dummy" timestamp="1490045200559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/userAuthenticationPresenter.py" timestamp="1499955754875" />
       <file name="D:/Work/tcp-tl-70/client/app/common/module/commonService.module.js" timestamp="1489430513485">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="19" />
@@ -187,7 +186,6 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/authenticationService.py" timestamp="1499955787169" />
       <file name="D:/Work/tcp-tl-70/client/etc/spec/app/deviceConfiguration/src/networkStatus/networkStatusData.spec" timestamp="1490048113983">
         <mark key="[" line="0" column="68" />
         <mark key="]" line="0" column="23" />
@@ -603,11 +601,9 @@
         <mark key="^" line="61" column="34" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1499465426679">
-        <mark key="'" line="109" column="36" />
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
-        <mark key="^" line="110" column="55" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpOccurrenceRuleGeneralDirective.js" timestamp="1484237182298">
         <mark key="[" line="15" column="0" />
@@ -883,7 +879,6 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/abstractHandler.py" timestamp="1499450772738" />
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/dateTimeInput.js" timestamp="1486392199370">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="32" />
