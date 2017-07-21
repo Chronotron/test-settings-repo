@@ -48,6 +48,7 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="47" column="121" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/apiNetworkInterfaceHandler.py" timestamp="1500645074791" />
       <file name="D:/Work/tcp-we-70/client/app/common/js/directive/featureBodyDirective.js" timestamp="1482273167552">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="60" />
@@ -338,11 +339,6 @@
         <mark key="." line="32" column="50" />
         <mark key="^" line="32" column="50" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/DeviceConfigurationApp.scss" timestamp="1490127157554">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-      </file>
       <file name="D:/Work/tcp-tl-70/client/scripts/build-js-webdevice-unminified.sh" timestamp="1489075004738">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="35" />
@@ -385,11 +381,6 @@
         <mark key="^" line="9" column="88" />
         <mark key="." line="9" column="114" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/common/css/EnrollmentMeesage.scss" timestamp="1494016491085">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/webclock/page/default/ViewLastPunch.html" timestamp="1484057700762">
         <mark key="[" line="30" column="75" />
         <mark key="]" line="34" column="74" />
@@ -417,7 +408,7 @@
         <mark key="." line="20" column="80" />
         <mark key="^" line="20" column="80" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/mockAuthenticationServiceImpl.py" timestamp="1500642628423">
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/mockAuthenticationServiceImpl.py" timestamp="1500644741514">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="39" />
         <mark key="." line="13" column="39" />
@@ -435,21 +426,11 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="62" column="6" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/biometricEnrollment/BiometricEnrollment.scss" timestamp="1494016610622">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/webclock/js/module/serviceProviderModule.js" timestamp="1487266573267">
         <mark key="[" line="56" column="69" />
         <mark key="]" line="56" column="72" />
         <mark key="." line="56" column="72" />
         <mark key="^" line="56" column="72" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptSpec.rb" timestamp="1490020759523">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/embeddedClock/embeddedClock.html" timestamp="1494012407736">
         <mark key="[" line="1" column="12" />
@@ -523,21 +504,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/biometricEnrollment/biometricEnrollment.service.js" timestamp="1494013136054">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/css/default/page/ManageTimeSheet.scss" timestamp="1483549343580">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="65" column="17" />
         <mark key="^" line="65" column="17" />
         <mark key="." line="65" column="17" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/views/wirelessDeviceConfiguration/wirelessDeviceConfiguration.html" timestamp="1490044872864">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="56" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/config/companyLocations/viewCompanyLocationConfig.js" timestamp="1486751743792">
         <mark key="[" line="11" column="22" />
@@ -550,11 +521,6 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="7" column="24" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/views/wiredDeviceConfiguration/wiredDeviceConfiguration.controller.spec.js" timestamp="1489609042383">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/companySettings/companySettings.controller.spec.js" timestamp="1494012785014">
         <mark key="[" line="7" column="0" />
@@ -607,7 +573,8 @@
         <mark key="." line="61" column="34" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1499465426679">
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1500644891475">
+        <mark key="'" line="20" column="24" />
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
@@ -672,11 +639,6 @@
         <mark key="." line="112" column="74" />
         <mark key="^" line="112" column="74" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/app/testUtility/index.html" timestamp="1490126936017">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/test/admin/prod/controller/databaseUpgradeControllerSpec.js" timestamp="1485892313367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -706,11 +668,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/testUtility/src/views/badgeTest/badgeData.js" timestamp="1490124671728">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfigurationApp.module.js" timestamp="1489430526340">
         <mark key="[" line="2" column="0" />
@@ -772,11 +729,6 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/etc/generation/bin/create-packages-core.sh" timestamp="1490040270583">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="D:/Work/tcp-tl-70/client/app/webdevice/src/core-dependencies.js" timestamp="1489017811920">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="11" />
@@ -794,11 +746,6 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/index.html" timestamp="1490126928297">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpSelectOccurrenceRuleDirective.js" timestamp="1484321162778">
         <mark key="[" line="16" column="120" />
@@ -880,11 +827,6 @@
         <mark key="]" line="9" column="42" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/scripts/link-core.bat" timestamp="1490024306377">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/dateTimeInput.js" timestamp="1486392199370">
         <mark key="[" line="9" column="24" />
@@ -1015,11 +957,6 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/etc/generation/bin/readme.MD" timestamp="1490020303640">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/prod/manager/service/manageJobCodeService.js" timestamp="1487014728587">
         <mark key="[" line="99" column="86" />
         <mark key="]" line="99" column="90" />
@@ -1064,11 +1001,6 @@
         <mark key="]" line="224" column="47" />
         <mark key="." line="224" column="47" />
         <mark key="^" line="225" column="54" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfigurationData.js" timestamp="1489423938570">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/resource/json/index.json" timestamp="1485272201678">
         <mark key="[" line="1" column="3" />
@@ -1258,8 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
-      <jump line="24" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
       <jump line="30" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
       <jump line="47" column="40" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
       <jump line="39" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
@@ -1358,6 +1288,8 @@
       <jump line="33" column="90" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
       <jump line="0" column="7" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
       <jump line="109" column="36" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
+      <jump line="99" column="50" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
+      <jump line="20" column="24" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1574,7 +1506,7 @@
         <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>restart</text>
+        <text>network\C</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSBVcGRhdGVTdGF0dXMoKQogICAgICAgIHVwZGF0ZVN0YXR1cy5jb21wbGV0ZSA9IEZhbHNlCiAgICAgICAgdXBkYXRlU3RhdHVzLm91dHB1dCA9IFsKICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAogICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICJDb21wbGV0ZSIKICAgICAgICBdCg==</text>
@@ -1611,9 +1543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>restart</last-search>
+      <last-search>network\C</last-search>
       <last-offset />
-      <last-pattern>restart</last-pattern>
+      <last-pattern>network\C</last-pattern>
       <last-replace>Update</last-replace>
       <last-substitute>TerminalStatus</last-substitute>
       <last-dir>1</last-dir>
@@ -1621,7 +1553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$on</entry>
         <entry encoding="base64">XDx3ZWJzb2NrZXRTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxnZXRQcmltaXRpdmVKc1Byb3BlcnRpZXNcPg==</entry>
         <entry>createCs</entry>
@@ -1641,6 +1572,7 @@
         <entry>TerminalStatus</entry>
         <entry encoding="base64">XDxweXR6XD4=</entry>
         <entry>restart</entry>
+        <entry>network\C</entry>
       </history-search>
       <history-cmd>
         <entry>%s//getCompanyLocationPreview/g</entry>
