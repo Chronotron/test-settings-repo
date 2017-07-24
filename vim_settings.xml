@@ -127,6 +127,7 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/companyTerminalPresenter.py" timestamp="1500908297283" />
       <file name="D:/Work/tcp-we-70/client/app/manager/page/default/AutomatedTasks.html" timestamp="1488482212541">
         <mark key="[" line="56" column="78" />
         <mark key="]" line="56" column="156" />
@@ -223,10 +224,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="7" column="1" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/directive/viewCompanyLocation/tcpViewCompanyLocation.directive.js" timestamp="1495563689686">
-        <mark key="[" line="17" column="27" />
-        <mark key="." line="17" column="1374" />
       </file>
       <file name="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptProperty.rb" timestamp="1490021481008">
         <mark key="[" line="24" column="66" />
@@ -339,6 +336,11 @@
         <mark key="." line="32" column="50" />
         <mark key="^" line="32" column="50" />
       </file>
+      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/DeviceConfigurationApp.scss" timestamp="1490127157554">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="D:/Work/tcp-tl-70/client/scripts/build-js-webdevice-unminified.sh" timestamp="1489075004738">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="35" />
@@ -380,6 +382,11 @@
         <mark key="]" line="9" column="22" />
         <mark key="^" line="9" column="88" />
         <mark key="." line="9" column="114" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/common/css/EnrollmentMeesage.scss" timestamp="1494016491085">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/webclock/page/default/ViewLastPunch.html" timestamp="1484057700762">
         <mark key="[" line="30" column="75" />
@@ -426,11 +433,21 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="62" column="6" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/biometricEnrollment/BiometricEnrollment.scss" timestamp="1494016610622">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/webclock/js/module/serviceProviderModule.js" timestamp="1487266573267">
         <mark key="[" line="56" column="69" />
         <mark key="]" line="56" column="72" />
         <mark key="." line="56" column="72" />
         <mark key="^" line="56" column="72" />
+      </file>
+      <file name="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptSpec.rb" timestamp="1490020759523">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/embeddedClock/embeddedClock.html" timestamp="1494012407736">
         <mark key="[" line="1" column="12" />
@@ -504,11 +521,21 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/biometricEnrollment/biometricEnrollment.service.js" timestamp="1494013136054">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/css/default/page/ManageTimeSheet.scss" timestamp="1483549343580">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="65" column="17" />
         <mark key="^" line="65" column="17" />
         <mark key="." line="65" column="17" />
+      </file>
+      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/views/wirelessDeviceConfiguration/wirelessDeviceConfiguration.html" timestamp="1490044872864">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/config/companyLocations/viewCompanyLocationConfig.js" timestamp="1486751743792">
         <mark key="[" line="11" column="22" />
@@ -521,6 +548,11 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="7" column="24" />
+      </file>
+      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/views/wiredDeviceConfiguration/wiredDeviceConfiguration.controller.spec.js" timestamp="1489609042383">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/companySettings/companySettings.controller.spec.js" timestamp="1494012785014">
         <mark key="[" line="7" column="0" />
@@ -558,7 +590,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499464156652">
+      <file name="/Dummy.txt" timestamp="1500908297831">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/scheduleCalendarDay.html" timestamp="1486768821563">
@@ -639,6 +671,11 @@
         <mark key="." line="112" column="74" />
         <mark key="^" line="112" column="74" />
       </file>
+      <file name="D:/Work/tcp-tl-70/client/app/testUtility/index.html" timestamp="1490126936017">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/test/admin/prod/controller/databaseUpgradeControllerSpec.js" timestamp="1485892313367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -668,6 +705,16 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/manageNetwork/manageNetworkData.py" timestamp="1500908150168">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Work/tcp-tl-70/client/app/testUtility/src/views/badgeTest/badgeData.js" timestamp="1490124671728">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfigurationApp.module.js" timestamp="1489430526340">
         <mark key="[" line="2" column="0" />
@@ -729,6 +776,11 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
+      <file name="D:/Work/tcp-tl-70/client/etc/generation/bin/create-packages-core.sh" timestamp="1490040270583">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/Work/tcp-tl-70/client/app/webdevice/src/core-dependencies.js" timestamp="1489017811920">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="11" />
@@ -746,6 +798,11 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
+      </file>
+      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/index.html" timestamp="1490126928297">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpSelectOccurrenceRuleDirective.js" timestamp="1484321162778">
         <mark key="[" line="16" column="120" />
@@ -765,7 +822,7 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1500907502499">
+      <file name="/Python Console" timestamp="1500908346294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/coveredEmployeeList.html" timestamp="1487276268084">
@@ -827,6 +884,11 @@
         <mark key="]" line="9" column="42" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/Work/tcp-tl-70/client/scripts/link-core.bat" timestamp="1490024306377">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/dateTimeInput.js" timestamp="1486392199370">
         <mark key="[" line="9" column="24" />
@@ -957,6 +1019,11 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
+      <file name="D:/Work/tcp-tl-70/client/etc/generation/bin/readme.MD" timestamp="1490020303640">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/prod/manager/service/manageJobCodeService.js" timestamp="1487014728587">
         <mark key="[" line="99" column="86" />
         <mark key="]" line="99" column="90" />
@@ -1002,11 +1069,22 @@
         <mark key="." line="224" column="47" />
         <mark key="^" line="225" column="54" />
       </file>
+      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfigurationData.js" timestamp="1489423938570">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/resource/json/index.json" timestamp="1485272201678">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/mainMenu/mainMenuContext.py" timestamp="1500908236844">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="D:/Work/tcp-we-70/client/prod/manager/service/globalModService.js" timestamp="1487014710296">
         <mark key="[" line="224" column="85" />
@@ -1104,6 +1182,11 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/manageNetworkPresenter.py" timestamp="1500908156570">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/controller/importFeature/importTaskInformationController.js" timestamp="1482165939786">
         <mark key="[" line="48" column="159" />
         <mark key="]" line="48" column="159" />
@@ -1157,6 +1240,12 @@
         <mark key="]" line="30" column="100" />
         <mark key="^" line="30" column="100" />
         <mark key="." line="30" column="100" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/sshSettings/sshSettingsData.py" timestamp="1500908179406">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/ThemeIndexResource.js" timestamp="1485271595122">
         <mark key="[" line="14" column="11" />
@@ -1315,7 +1404,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>common</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1503,7 +1592,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>common</text>
       </register>
       <register name="/" type="4">
         <text>network\C</text>
@@ -1512,31 +1601,31 @@
         <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSBVcGRhdGVTdGF0dXMoKQogICAgICAgIHVwZGF0ZVN0YXR1cy5jb21wbGV0ZSA9IEZhbHNlCiAgICAgICAgdXBkYXRlU3RhdHVzLm91dHB1dCA9IFsKICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAogICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICJDb21wbGV0ZSIKICAgICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkluc3RhbGxpbmciLAogICAgICAgICAgICAiQ29tcGxldGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSB7CiAgICAgICAgICAgICJjb21wbGV0ZSI6IFRydWUsCiAgICAgICAgICAgICJvdXRwdXQiOiBbCiAgICAgICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICAgICAiQ29tcGxldGUiCiAgICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnJvbSBtcGkubW9kZWwuc3VwLnNldHVwLnNyYy5zc2hTZXR0aW5ncy5zc2hTZXR0aW5nc0RhdGEgaW1wb3J0IFNzaFNldHRpbmdzRGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkluc3RhbGxpbmciLAogICAgICAgICAgICAiQ29tcGxldGUiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9ialNzaFNldHRpbmdzRGF0YSA9IFNzaFNldHRpbmdzRGF0YShpc1NzaEVuYWJsZWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJTdGFydGluZyB1cGRhdGUiLAogICAgICAgICAgICAgICAgIkRvd25sb2FkaW5nIC4uLiIsCg==</text>
+        <text encoding="base64">ZnJvbSBtcGkubW9kZWwuc3VwLnNldHVwLnNyYy5zc2hTZXR0aW5ncy5zc2hTZXR0aW5nc0RhdGEgaW1wb3J0IFNzaFNldHRpbmdzRGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvbXBsZXRlIjogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkluc3RhbGxpbmciLAogICAgICAgICAgICAiQ29tcGxldGUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSB7CiAgICAgICAgICAgICJjb21wbGV0ZSI6IFRydWUsCiAgICAgICAgICAgICJvdXRwdXQiOiBbCiAgICAgICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICAgICAiQ29tcGxldGUiCiAgICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY29weUZyb20ob3RoZXI6IFVwZGF0ZVN0YXR1cykgOiB2b2lkIHsKICAgIGlmKCFvdGhlcikgewogICAgICByZXR1cm47CiAgICB9CgogICAgdGhpcy5jb21wbGV0ZSA9IG90aGVyLmNvbXBsZXRlOwogICAgaWYob3RoZXIub3V0cHV0KSB7CiAgICAgIGxldCB0aGF0ID0gdGhpczsKICAgICAgb3RoZXIub3V0cHV0LmZvckVhY2gobGluZSA9PiB0aGF0Lm91dHB1dC5wdXNoKGxpbmUpKQogICAgfQogICAgdGhpcy5zdWNjZXNzID0gb3RoZXIuc3VjY2VzcwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkluc3RhbGxpbmciLAogICAgICAgICAgICAiQ29tcGxldGUiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Rlcm1pbmFsU3RhdHVzL1VwZGF0ZS9n</text>
