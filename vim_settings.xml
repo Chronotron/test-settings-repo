@@ -129,6 +129,12 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/manageNetwork/manageNetwork.controller.js" timestamp="1501001376539">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="56" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/page/default/AutomatedTasks.html" timestamp="1488482212541">
         <mark key="[" line="56" column="78" />
         <mark key="]" line="56" column="156" />
@@ -549,7 +555,6 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="315" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/uiDomain/urlConstants.js" timestamp="1500305028258" />
       <file name="D:/Work/tcp-we-70/client/app/manager/inc/default/occurrenceRules/occurrenceRuleGeneral.html" timestamp="1484755328433">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -568,7 +573,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500073738578">
+      <file name="/Dummy.txt" timestamp="1501001379049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/scheduleCalendarDay.html" timestamp="1486768821563">
@@ -758,7 +763,6 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/inc/default/dashboard/dashboardDropRequestsWidget.html" timestamp="1500302538155" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/data/occurrenceRules/addOccurrenceRuleData.js" timestamp="1484151156566">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="23" />
@@ -1368,8 +1372,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9uZy10cmFuc2NsdWRlPicgKwo=</text>
+      <register name="&quot;" type="4">
+        <text>manageNetworkController.initialize(controller.context.objManageNetworkContext)&quot;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1557,7 +1561,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{{controller.objWidget | json}}</text>
+        <text>manageNetworkController.initialize(controller.context.objManageNetworkContext)&quot;</text>
       </register>
       <register name="/" type="4">
         <text>objWidget</text>
