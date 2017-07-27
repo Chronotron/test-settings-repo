@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/Work/tcp-we-70/client/build/scratch.txt" timestamp="1484337738196">
@@ -1050,6 +1050,13 @@
         <mark key="^" line="23" column="99" />
         <mark key="." line="23" column="151" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" timestamp="1501174104497">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+        <mark key="^" line="18" column="68" />
+      </file>
       <file name="D:/Work/tcp-tl-70/client/app/common/constants/http.constants.js" timestamp="1489414733843">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="19" />
@@ -1262,9 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="22" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
-      <jump line="31" column="12" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
-      <jump line="10" column="38" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
       <jump line="15" column="33" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
       <jump line="16" column="116" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
       <jump line="17" column="118" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
@@ -1362,6 +1366,9 @@
       <jump line="90" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
       <jump line="91" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
       <jump line="2" column="13" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="20" column="37" filename="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" />
+      <jump line="282" column="8" filename="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" />
+      <jump line="0" column="25" filename="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1386,8 +1393,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1533,49 +1540,49 @@
         <text>^nevF/lhxj^</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>goog.</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>goog.array</text>
       </register>
       <register name="0" type="4">
         <text>app/ts/core/domain/networkInterfacePreview.js</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2Nsb3N1cmUtbGlicmFyeS50cy9jbG9zdXJlLWxpYnJhcnkuZC50cy9jbG9zdXJlL2dvb2cvYXJyYXkiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSB7c3RyaW5nfSBbc3RyQ2xpZW50VmVyc2lvbl0KICoKICogQHBhcmFtIHN0ckRldmljZVR5cGUKICogQHByb3BlcnR5IHt0Y3B3ZS5jb21tb24udWlEb21haW4uQWJzdHJhY3RVcmxNYXBbXX0gX2Fyck9yZGVyZWRJbmNsdWRlVXJsTWFwcwogKiBAcHJvcGVydHkge3RjcHdlLmNvbW1vbi51aURvbWFpbi5BYnN0cmFjdFVybE1hcFtdfSBfYXJyT3JkZXJlZE1vZGFsVXJsTWFwcwogKiBAcHJvcGVydHkge3RjcHdlLmNvbW1vbi51aURvbWFpbi5BYnN0cmFjdFVybE1hcFtdfSBfYXJyT3JkZXJlZFBhZ2VVcmxNYXBzCiAqIEBwcm9wZXJ0eSB7Kn0gX29iakZpbHRlclR5cGVUb01vZGFsS2V5TWFwCiAqIEBwcm9wZXJ0eSB7c3RyaW5nfSBfc3RyQ2xpZW50VmVyc2lvbgogKiBAcHJvcGVydHkge3N0cmluZ30gX3N0ckdvb2dsZU1hcEJhc2VVcmwKICogQHByb3BlcnR5IHtzdHJpbmd9IF9zdHJNYXBBcGlCYXNlVXJsCiAqLwo=</text>
+        <text encoding="base64">Z29vZy5wcm92aWRlKCd0Y3B3ZS5jb21tb24uYnVpbGRlci5BYnN0cmFjdFVybEJ1aWxkZXInKTsK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Z29vZy5wcm92aWRlKCd0Y3B3ZS5jb21tb24uYnVpbGRlci5BYnN0cmFjdFVybEJ1aWxkZXInKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L2FwcC9jb3JlL2NvbW1vbi9qcy9idWlsZGVyL2Fic3RyYWN0VXJsQnVpbGRlci5qcwo=</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2Nsb3N1cmUtbGlicmFyeS50cy9jbG9zdXJlLWxpYnJhcnkuZC50cy9jbG9zdXJlL2dvb2cvYXJyYXkiIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L2FwcC9jb3JlL2NvbW1vbi9qcy9idWlsZGVyL2Fic3RyYWN0VXJsQnVpbGRlci5qcwo=</text>
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSB7c3RyaW5nfSBbc3RyQ2xpZW50VmVyc2lvbl0KICoKICogQHBhcmFtIHN0ckRldmljZVR5cGUKICogQHByb3BlcnR5IHt0Y3B3ZS5jb21tb24udWlEb21haW4uQWJzdHJhY3RVcmxNYXBbXX0gX2Fyck9yZGVyZWRJbmNsdWRlVXJsTWFwcwogKiBAcHJvcGVydHkge3RjcHdlLmNvbW1vbi51aURvbWFpbi5BYnN0cmFjdFVybE1hcFtdfSBfYXJyT3JkZXJlZE1vZGFsVXJsTWFwcwogKiBAcHJvcGVydHkge3RjcHdlLmNvbW1vbi51aURvbWFpbi5BYnN0cmFjdFVybE1hcFtdfSBfYXJyT3JkZXJlZFBhZ2VVcmxNYXBzCiAqIEBwcm9wZXJ0eSB7Kn0gX29iakZpbHRlclR5cGVUb01vZGFsS2V5TWFwCiAqIEBwcm9wZXJ0eSB7c3RyaW5nfSBfc3RyQ2xpZW50VmVyc2lvbgogKiBAcHJvcGVydHkge3N0cmluZ30gX3N0ckdvb2dsZU1hcEJhc2VVcmwKICogQHByb3BlcnR5IHtzdHJpbmd9IF9zdHJNYXBBcGlCYXNlVXJsCiAqLwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9uZy10cmFuc2NsdWRlPicgKwo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnPG5nLXRyYW5zY2x1ZGU+JyArCg==</text>
+        <text encoding="base64">L2FwcC9jb3JlL2NvbW1vbi9qcy9idWlsZGVyL2Fic3RyYWN0VXJsQnVpbGRlci5qcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9uZy10cmFuc2NsdWRlPicgKwo=</text>
+        <text encoding="base64">L2FwcC9jb3JlL2NvbW1vbi9qcy9idWlsZGVyL2Fic3RyYWN0VXJsQnVpbGRlci5qcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnPHRjcC13aWRnZXQgd2lkZ2V0PSJjb250cm9sbGVyLmdldFdpZGdldCgpIiBjb25maWc9ImNvbnRyb2xsZXIuZ2V0RGFzaGJvYXJkQ29uZmlnKCkiPjwvdGNwLXdpZGdldD4nICsK</text>
+        <text encoding="base64">ICAgICAgICAnPC9uZy10cmFuc2NsdWRlPicgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.js$/.ts/g</text>
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>goog.array</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
+      <last-pattern>goog.array</last-pattern>
       <last-replace>.ts</last-replace>
       <last-substitute>\.js$</last-substitute>
       <last-dir>1</last-dir>
@@ -1583,8 +1590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>widget.</entry>
-        <entry>widget\.</entry>
         <entry>widget</entry>
         <entry>getWidgetItems</entry>
         <entry>getTableCaptions</entry>
@@ -1603,6 +1608,8 @@
         <entry>js</entry>
         <entry>\.js$</entry>
         <entry>export</entry>
+        <entry>goog.arry</entry>
+        <entry>goog.array</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1thLXpdL1x1X1wxL2c=</entry>
