@@ -596,8 +596,10 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501161287524">
+      <file name="/Dummy.txt" timestamp="1501161585651">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/scheduleCalendarDay.html" timestamp="1486768821563">
         <mark key="[" line="51" column="0" />
@@ -1412,7 +1414,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>shared run configuration</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1600,7 +1602,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>shared run configuration</text>
       </register>
       <register name="/" type="4">
         <text>network\C</text>
