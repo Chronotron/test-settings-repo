@@ -297,6 +297,12 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/facade/platformFacade.py" timestamp="1501161495050">
+        <mark key="[" line="520" column="80" />
+        <mark key="]" line="520" column="83" />
+        <mark key="." line="520" column="83" />
+        <mark key="^" line="520" column="83" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/inc/default/manageEmployee/occurrences.html" timestamp="1485814014276">
         <mark key="[" line="4" column="153" />
         <mark key="]" line="5" column="3" />
@@ -590,7 +596,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500908297831">
+      <file name="/Dummy.txt" timestamp="1501161287524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/scheduleCalendarDay.html" timestamp="1486768821563">
@@ -722,6 +728,7 @@
         <mark key="^" line="1" column="57" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/application.py" timestamp="1501161373369" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/controller/globalMod/globalModSelectOccurrenceRuleController.js" timestamp="1484695711245">
         <mark key="[" line="30" column="106" />
         <mark key="]" line="31" column="48" />
@@ -822,7 +829,7 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1501107865404">
+      <file name="/Python Console" timestamp="1501161505538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/coveredEmployeeList.html" timestamp="1487276268084">
@@ -1057,7 +1064,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/terminalPasswordEntryPresenter.py" timestamp="1501103107962" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/terminalPasswordEntryPresenter.py" timestamp="1501161228552" />
       <file name="D:/Work/tcp-tl-70/client/config/grunt/closure-grunt.conf.json" timestamp="1489076448959">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="37" />
