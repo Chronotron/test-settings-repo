@@ -509,7 +509,7 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/build/package/app/setup/systemjs.config.js" timestamp="1501281485839">
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/build/package/app/setup/systemjs.config.js" timestamp="1501283097942">
         <mark key="[" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/systemjs.config.js" timestamp="1501278310233" />
@@ -772,6 +772,7 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/tsconfig.json" timestamp="1501283058430" />
       <file name="D:/Work/tcp-tl-70/client/app/webdevice/src/core-dependencies.js" timestamp="1489017811920">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="11" />
