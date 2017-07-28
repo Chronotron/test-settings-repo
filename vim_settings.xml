@@ -231,11 +231,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/scripts/package-orion-client.sh" timestamp="1501277040554">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/scripts/package-orion-client.sh" timestamp="1501278541215">
+        <mark key="[" line="41" column="61" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="44" column="30" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/css/default/Address.scss" timestamp="1486686475224">
         <mark key="[" line="25" column="0" />
@@ -314,6 +314,11 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/ts/setup.module.ts" timestamp="1501277802027">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500302437957">
         <mark key="'" line="11" column="71" />
@@ -496,6 +501,10 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/build/package/app/setup/systemjs.config.js" timestamp="1501278357161">
+        <mark key="[" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/systemjs.config.js" timestamp="1501278310233" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/builder/terminalsUrlBuilder.js" timestamp="1487973291119">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="16" column="0" />
@@ -531,12 +540,6 @@
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/directive/applicationControls/sessionTimeoutMessageDirective.js" timestamp="1500073907172">
-        <mark key="'" line="54" column="89" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/companySettings/companySettings.controller.spec.js" timestamp="1494012785014">
         <mark key="[" line="7" column="0" />
@@ -574,7 +577,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501001379049">
+      <file name="/Dummy.txt" timestamp="1501277785464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/scheduleCalendarDay.html" timestamp="1486768821563">
@@ -1384,8 +1387,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>lib/tcpwe/tcpwe.setup.min.css</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYm9vdHN0cmFwJyk7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1531,18 +1534,33 @@
         <text>^nevF/lhxj^</text>
       </register>
       <register name="-" type="4">
-        <text>lib/tcpwe/tcpwe.setup.min.css</text>
+        <text>shim.min.js</text>
       </register>
       <register name="/" type="4">
         <text>goog.array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gYXBwL2xpYi90Y3B3ZS90Y3B3ZS5zZXR1cC5taW4uY3NzCg==</text>
+        <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gYXBwL2xpYi96b25lL3pvbmUuanMK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYm9vdHN0cmFwJyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Jvb3RzdHJhcCcpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gYXBwL2xpYi96b25lL3pvbmUuanMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
-      <register name="2" type="8">
+      <register name="7" type="8">
         <text>-kf
 -kf
 -kf
@@ -1560,7 +1578,7 @@
 -kf
 -kf</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>#gzip
 #gzip
 #gzip
@@ -1575,23 +1593,8 @@
 #gzip
 #gzip</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z29vZy5wcm92aWRlKCd0Y3B3ZS5jb21tb24uYnVpbGRlci5BYnN0cmFjdFVybEJ1aWxkZXInKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Z29vZy5wcm92aWRlKCd0Y3B3ZS5jb21tb24uYnVpbGRlci5BYnN0cmFjdFVybEJ1aWxkZXInKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2Nsb3N1cmUtbGlicmFyeS50cy9jbG9zdXJlLWxpYnJhcnkuZC50cy9jbG9zdXJlL2dvb2cvYXJyYXkiIC8+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSB7c3RyaW5nfSBbc3RyQ2xpZW50VmVyc2lvbl0KICoKICogQHBhcmFtIHN0ckRldmljZVR5cGUKICogQHByb3BlcnR5IHt0Y3B3ZS5jb21tb24udWlEb21haW4uQWJzdHJhY3RVcmxNYXBbXX0gX2Fyck9yZGVyZWRJbmNsdWRlVXJsTWFwcwogKiBAcHJvcGVydHkge3RjcHdlLmNvbW1vbi51aURvbWFpbi5BYnN0cmFjdFVybE1hcFtdfSBfYXJyT3JkZXJlZE1vZGFsVXJsTWFwcwogKiBAcHJvcGVydHkge3RjcHdlLmNvbW1vbi51aURvbWFpbi5BYnN0cmFjdFVybE1hcFtdfSBfYXJyT3JkZXJlZFBhZ2VVcmxNYXBzCiAqIEBwcm9wZXJ0eSB7Kn0gX29iakZpbHRlclR5cGVUb01vZGFsS2V5TWFwCiAqIEBwcm9wZXJ0eSB7c3RyaW5nfSBfc3RyQ2xpZW50VmVyc2lvbgogKiBAcHJvcGVydHkge3N0cmluZ30gX3N0ckdvb2dsZU1hcEJhc2VVcmwKICogQHByb3BlcnR5IHtzdHJpbmd9IF9zdHJNYXBBcGlCYXNlVXJsCiAqLwo=</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.js$/.ts/g</text>
