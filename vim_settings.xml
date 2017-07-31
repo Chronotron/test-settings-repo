@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/Work/tcp-we-70/client/build/scratch.txt" timestamp="1484337738196">
@@ -318,7 +318,7 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/ts/setup.module.ts" timestamp="1501277802027">
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/ts/setup.module.ts" timestamp="1501513420807">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -512,7 +512,6 @@
       <file name="$USER_HOME$/Work/tcp-tl-70/client/build/package/app/setup/systemjs.config.js" timestamp="1501283097942">
         <mark key="[" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/systemjs.config.js" timestamp="1501278310233" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/builder/terminalsUrlBuilder.js" timestamp="1487973291119">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="16" column="0" />
@@ -585,7 +584,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501281743928">
+      <file name="/Dummy.txt" timestamp="1501514533516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -729,7 +728,7 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/index.html" timestamp="1501277048578" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/index.html" timestamp="1501513762343" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/controller/appController.js" timestamp="1487613201998">
         <mark key="[" line="214" column="31" />
         <mark key="]" line="214" column="31" />
@@ -772,7 +771,6 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/tsconfig.json" timestamp="1501283058430" />
       <file name="D:/Work/tcp-tl-70/client/app/webdevice/src/core-dependencies.js" timestamp="1489017811920">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="11" />
@@ -1114,6 +1112,9 @@
         <mark key="]" line="21" column="18" />
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/serverSettings/serverSettingsConfig.js" timestamp="1501514580353">
+        <mark key="[" line="12" column="24" />
       </file>
       <file name="D:/Work/tcp-tl-70/client/app/common/service/abstractHttpService.js" timestamp="1489430326859">
         <mark key="[" line="0" column="0" />
