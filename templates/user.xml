@@ -160,4 +160,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="ngcomponent" value="goog.provide('tcpwe.$COMPONENT$');&#10;&#10;goog.require('tcpwe.$MODULE$');&#10;&#10;(function () {&#10;    &#10;    angular.module('$MODULE$').component('$COMPONENT$', {&#10;        template: '&lt;span&gt;&lt;/span&gt;',&#10;        bindings: {&#10;            $END$&#10;        }&#10;    });&#10;    &#10;})();" description="expands into an angular component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

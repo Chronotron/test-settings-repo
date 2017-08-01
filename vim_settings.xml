@@ -15,9 +15,6 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1490045200559">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Work/tcp-tl-70/client/app/common/module/commonService.module.js" timestamp="1489430513485">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="19" />
@@ -48,7 +45,6 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="47" column="121" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/apiNetworkInterfaceHandler.py" timestamp="1500645074791" />
       <file name="D:/Work/tcp-we-70/client/app/common/js/directive/featureBodyDirective.js" timestamp="1482273167552">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="60" />
@@ -127,7 +123,19 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/companyTerminalPresenter.py" timestamp="1500908297283" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/manageNetwork/manageNetwork.controller.js" timestamp="1501001376539">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" timestamp="1501172703569">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="91" column="27" />
+        <mark key="]" line="91" column="27" />
+        <mark key="." line="91" column="27" />
+        <mark key="^" line="3" column="116" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/page/default/AutomatedTasks.html" timestamp="1488482212541">
         <mark key="[" line="56" column="78" />
         <mark key="]" line="56" column="156" />
@@ -146,11 +154,19 @@
         <mark key="^" line="168" column="51" />
         <mark key="." line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/terminalStatusHandler.py" timestamp="1499456150315">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" timestamp="1500304055766">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" timestamp="1500073481767">
+        <mark key="'" line="51" column="9" />
+        <mark key="[" line="68" column="68" />
+        <mark key="]" line="88" column="56" />
+        <mark key="." line="88" column="56" />
+        <mark key="^" line="88" column="124" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/menu/menu.js" timestamp="1487802733912">
         <mark key="[" line="193" column="24" />
@@ -188,7 +204,6 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/authenticationService.py" timestamp="1500642503235" />
       <file name="D:/Work/tcp-tl-70/client/etc/spec/app/deviceConfiguration/src/networkStatus/networkStatusData.spec" timestamp="1490048113983">
         <mark key="[" line="0" column="68" />
         <mark key="]" line="0" column="23" />
@@ -213,11 +228,17 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/scripts/package-orion-client.sh" timestamp="1494019366491">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-        <mark key="^" line="16" column="59" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/scripts/package-orion-client.sh" timestamp="1501278541215">
+        <mark key="[" line="41" column="61" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="44" column="30" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/package.json" timestamp="1501280895736">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="8" column="61" />
+        <mark key="." line="8" column="61" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/css/default/Address.scss" timestamp="1486686475224">
         <mark key="[" line="25" column="0" />
@@ -297,11 +318,17 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/facade/platformFacade.py" timestamp="1501161495050">
-        <mark key="[" line="520" column="80" />
-        <mark key="]" line="520" column="83" />
-        <mark key="." line="520" column="83" />
-        <mark key="^" line="520" column="83" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/ts/setup.module.ts" timestamp="1501277802027">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500302437957">
+        <mark key="'" line="11" column="71" />
+        <mark key="[" line="50" column="66" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="22" column="72" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/inc/default/manageEmployee/occurrences.html" timestamp="1485814014276">
         <mark key="[" line="4" column="153" />
@@ -321,14 +348,16 @@
         <mark key="." line="4" column="94" />
         <mark key="^" line="4" column="94" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/networkStatus/networkStatus.directive.js" timestamp="1490127099520">
-        <mark key="[" line="15" column="28" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/prod/manager/service/companySetupService.js" timestamp="1487014719871">
         <mark key="[" line="83" column="85" />
         <mark key="]" line="83" column="90" />
         <mark key="." line="83" column="90" />
         <mark key="^" line="83" column="90" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/scripts/prep-e2e.sh" timestamp="1501281462681">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpJobCodeGeneralInfoDirective.js" timestamp="1484067510735">
         <mark key="[" line="9" column="50" />
@@ -341,11 +370,6 @@
         <mark key="]" line="32" column="50" />
         <mark key="." line="32" column="50" />
         <mark key="^" line="32" column="50" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/DeviceConfigurationApp.scss" timestamp="1490127157554">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
       </file>
       <file name="D:/Work/tcp-tl-70/client/scripts/build-js-webdevice-unminified.sh" timestamp="1489075004738">
         <mark key="[" line="8" column="27" />
@@ -389,19 +413,11 @@
         <mark key="^" line="9" column="88" />
         <mark key="." line="9" column="114" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/common/css/EnrollmentMeesage.scss" timestamp="1494016491085">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/webclock/page/default/ViewLastPunch.html" timestamp="1484057700762">
         <mark key="[" line="30" column="75" />
         <mark key="]" line="34" column="74" />
         <mark key="^" line="34" column="74" />
         <mark key="." line="34" column="74" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/testUtility/src/views/cameraTest/cameraTest.html" timestamp="1490127544692">
-        <mark key="[" line="1" column="16" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/stringSelectItem.js" timestamp="1484317584528">
         <mark key="[" line="50" column="10" />
@@ -421,12 +437,6 @@
         <mark key="." line="20" column="80" />
         <mark key="^" line="20" column="80" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/service/mockAuthenticationServiceImpl.py" timestamp="1500911333235">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-      </file>
       <file name="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-packages.txt" timestamp="1489419722744">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="1" column="27" />
@@ -439,21 +449,11 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="62" column="6" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/biometricEnrollment/BiometricEnrollment.scss" timestamp="1494016610622">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/webclock/js/module/serviceProviderModule.js" timestamp="1487266573267">
         <mark key="[" line="56" column="69" />
         <mark key="]" line="56" column="72" />
         <mark key="." line="56" column="72" />
         <mark key="^" line="56" column="72" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptSpec.rb" timestamp="1490020759523">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/embeddedClock/embeddedClock.html" timestamp="1494012407736">
         <mark key="[" line="1" column="12" />
@@ -479,6 +479,12 @@
         <mark key="^" line="0" column="140" />
         <mark key="." line="0" column="140" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/Gruntfile.js" timestamp="1501281428058">
+        <mark key="[" line="120" column="13" />
+        <mark key="]" line="120" column="13" />
+        <mark key="." line="120" column="13" />
+        <mark key="^" line="119" column="14" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/test/scheduler/prod/controller/manageScheduleTemplateControllerSpec.js" timestamp="1488577069135">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="22" />
@@ -503,6 +509,10 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/build/package/app/setup/systemjs.config.js" timestamp="1501283097942">
+        <mark key="[" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/systemjs.config.js" timestamp="1501278310233" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/builder/terminalsUrlBuilder.js" timestamp="1487973291119">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="16" column="0" />
@@ -527,38 +537,17 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/biometricEnrollment/biometricEnrollment.service.js" timestamp="1494013136054">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/css/default/page/ManageTimeSheet.scss" timestamp="1483549343580">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="65" column="17" />
         <mark key="^" line="65" column="17" />
         <mark key="." line="65" column="17" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/views/wirelessDeviceConfiguration/wirelessDeviceConfiguration.html" timestamp="1490044872864">
-        <mark key="[" line="3" column="56" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="56" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/config/companyLocations/viewCompanyLocationConfig.js" timestamp="1486751743792">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/tempAngular2/updateStatus.py" timestamp="1499451389994">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/views/wiredDeviceConfiguration/wiredDeviceConfiguration.controller.spec.js" timestamp="1489609042383">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/companySettings/companySettings.controller.spec.js" timestamp="1494012785014">
         <mark key="[" line="7" column="0" />
@@ -596,7 +585,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501161585651">
+      <file name="/Dummy.txt" timestamp="1501281743928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -612,11 +601,6 @@
         <mark key="]" line="61" column="34" />
         <mark key="." line="61" column="34" />
         <mark key="^" line="61" column="34" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" timestamp="1500644891475">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpOccurrenceRuleGeneralDirective.js" timestamp="1484237182298">
         <mark key="[" line="15" column="0" />
@@ -642,7 +626,6 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/facade/facadeNoAdapterGuardClauseDecorator.py" timestamp="1501103131191" />
       <file name="D:/Work/tcp-we-70/client/app/manager/inc/default/occurrenceRules/occurrenceRuleFrequency.html" timestamp="1484242760054">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="51" />
@@ -661,12 +644,6 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" timestamp="1499465493175">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/common/css/EnrollmentMessage.scss" timestamp="1494016620158">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="10" />
@@ -678,11 +655,6 @@
         <mark key="]" line="112" column="74" />
         <mark key="." line="112" column="74" />
         <mark key="^" line="112" column="74" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/testUtility/index.html" timestamp="1490126936017">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/test/admin/prod/controller/databaseUpgradeControllerSpec.js" timestamp="1485892313367">
         <mark key="[" line="0" column="0" />
@@ -696,11 +668,30 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetController.js" timestamp="1500302914507">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/webclock/inc/default/logOnBody.html" timestamp="1494018840617">
         <mark key="[" line="31" column="46" />
         <mark key="]" line="31" column="63" />
         <mark key="^" line="31" column="63" />
         <mark key="." line="31" column="63" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/layoutHeader/tcpLayoutHeader.directive.spec.js" timestamp="1500073947484">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="34" column="52" />
+        <mark key="]" line="34" column="51" />
+        <mark key="^" line="34" column="51" />
+        <mark key="." line="34" column="51" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestWidget.html" timestamp="1500303375046">
+        <mark key="[" line="0" column="92" />
+        <mark key="]" line="0" column="90" />
+        <mark key="." line="0" column="90" />
+        <mark key="^" line="0" column="90" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/uiDomain/managerDefaultIncludeUrlMap.js" timestamp="1486736936402">
         <mark key="[" line="19" column="0" />
@@ -714,23 +705,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/manageNetwork/manageNetworkData.py" timestamp="1500908150168">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/testUtility/src/views/badgeTest/badgeData.js" timestamp="1490124671728">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfigurationApp.module.js" timestamp="1489430526340">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="58" />
         <mark key="^" line="1" column="57" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/application.py" timestamp="1501161373369" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/controller/globalMod/globalModSelectOccurrenceRuleController.js" timestamp="1484695711245">
         <mark key="[" line="30" column="106" />
         <mark key="]" line="31" column="48" />
@@ -749,11 +729,18 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="51" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/index.html" timestamp="1501277048578" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/controller/appController.js" timestamp="1487613201998">
         <mark key="[" line="214" column="31" />
         <mark key="]" line="214" column="31" />
         <mark key="." line="214" column="31" />
         <mark key="^" line="214" column="31" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.service.js" timestamp="1500301212532">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="76" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/src/views/embeddedClock/embeddedClock.controller.js" timestamp="1494024525912">
         <mark key="[" line="21" column="9" />
@@ -785,11 +772,7 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/etc/generation/bin/create-packages-core.sh" timestamp="1490040270583">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/tsconfig.json" timestamp="1501283058430" />
       <file name="D:/Work/tcp-tl-70/client/app/webdevice/src/core-dependencies.js" timestamp="1489017811920">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="11" />
@@ -808,11 +791,6 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/index.html" timestamp="1490126928297">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpSelectOccurrenceRuleDirective.js" timestamp="1484321162778">
         <mark key="[" line="16" column="120" />
         <mark key="]" line="16" column="125" />
@@ -825,14 +803,17 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.html" timestamp="1500303359034">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/modal/default/importFeature/ImportTaskInformation.html" timestamp="1482166033867">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
-      </file>
-      <file name="/Python Console" timestamp="1501190047027">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/coveredEmployeeList.html" timestamp="1487276268084">
         <mark key="[" line="6" column="0" />
@@ -894,10 +875,10 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/scripts/link-core.bat" timestamp="1490024306377">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.component.js" timestamp="1500304428597">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/dateTimeInput.js" timestamp="1486392199370">
         <mark key="[" line="9" column="24" />
@@ -910,6 +891,12 @@
         <mark key="]" line="23" column="34" />
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView-entry.js" timestamp="1500303172341">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/scheduler/js/controller/masterSchedule/selectDefaultEmployeeController.js" timestamp="1482194232839">
         <mark key="[" line="12" column="73" />
@@ -929,11 +916,24 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.ts" timestamp="1501173456008">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/data/addEditOccurrenceData.js" timestamp="1486392288322">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="13" column="33" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" timestamp="1500303345285">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="42" column="60" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/scheduler/modal/default/AddScheduleTemplate.html" timestamp="1485296827886">
         <mark key="[" line="2" column="34" />
@@ -983,14 +983,16 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1494012001872">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/css/OccurrenceRuleExpiration.scss" timestamp="1484342669198">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="3" />
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/scripts/execute-e2e-tests.sh" timestamp="1501281459864">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/config/exportAutomation/exportAutomationConfig.js" timestamp="1487778939560">
         <mark key="[" line="11" column="22" />
@@ -1028,19 +1030,11 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/etc/generation/bin/readme.MD" timestamp="1490020303640">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/prod/manager/service/manageJobCodeService.js" timestamp="1487014728587">
         <mark key="[" line="99" column="86" />
         <mark key="]" line="99" column="90" />
         <mark key="^" line="99" column="90" />
         <mark key="." line="99" column="90" />
-      </file>
-      <file name="D:/Work/tcp-tl-70/client/app/webdevice/src/core.dependencies.js" timestamp="1489076309163">
-        <mark key="[" line="4" column="50" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/directive/tcpEmployeeOccurrenceRuleDirective.js" timestamp="1484338386122">
         <mark key="[" line="22" column="0" />
@@ -1060,13 +1054,19 @@
         <mark key="^" line="23" column="99" />
         <mark key="." line="23" column="151" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" timestamp="1501174104497">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+        <mark key="^" line="18" column="68" />
+      </file>
       <file name="D:/Work/tcp-tl-70/client/app/common/constants/http.constants.js" timestamp="1489414733843">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/terminalPasswordEntryPresenter.py" timestamp="1501161228552" />
       <file name="D:/Work/tcp-tl-70/client/config/grunt/closure-grunt.conf.json" timestamp="1489076448959">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="37" />
@@ -1079,22 +1079,11 @@
         <mark key="." line="224" column="47" />
         <mark key="^" line="225" column="54" />
       </file>
-      <file name="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfigurationData.js" timestamp="1489423938570">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/resource/json/index.json" timestamp="1485272201678">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/mainMenu/mainMenuContext.py" timestamp="1500908236844">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-        <mark key="^" line="0" column="27" />
       </file>
       <file name="D:/Work/tcp-we-70/client/prod/manager/service/globalModService.js" timestamp="1487014710296">
         <mark key="[" line="224" column="85" />
@@ -1144,6 +1133,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetNavigator.component.js" timestamp="1500304420212">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/context/manageEmployee/employeeOccurrenceRuleContext.js" timestamp="1484338379225">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="35" />
@@ -1191,11 +1186,6 @@
         <mark key="]" line="20" column="21" />
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
-      </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/manageNetworkPresenter.py" timestamp="1500908156570">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/manager/js/controller/importFeature/importTaskInformationController.js" timestamp="1482165939786">
         <mark key="[" line="48" column="159" />
@@ -1251,12 +1241,6 @@
         <mark key="^" line="30" column="100" />
         <mark key="." line="30" column="100" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/sshSettings/sshSettingsData.py" timestamp="1500908179406">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="D:/Work/tcp-we-70/client/app/common/js/domain/ThemeIndexResource.js" timestamp="1485271595122">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="11" />
@@ -1289,106 +1273,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/bin/create-js-package.rb" />
-      <jump line="47" column="40" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="39" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="79" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="34" column="23" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="41" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="43" column="8" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="46" column="76" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="67" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="68" column="76" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="19" column="41" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="4" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="86" column="24" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptApplication.rb" />
-      <jump line="71" column="89" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="77" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="78" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="81" column="20" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="20" column="44" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="39" column="46" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="10" column="44" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="13" column="5" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptPackage.rb" />
-      <jump line="40" column="19" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptFile.rb" />
-      <jump line="87" column="6" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptFile.rb" />
-      <jump line="66" column="27" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptFile.rb" />
-      <jump line="0" column="0" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptFile.rb" />
-      <jump line="1" column="0" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptFile.rb" />
-      <jump line="305" column="5" filename="D:/Work/tcp-we-70/client/app/common/js/helper/globalFunctions.js" />
-      <jump line="31" column="0" filename="D:/Work/tcp-tl-70/client/app/lib/tcpwe/tcpwe.deviceConfiguration.min.js" />
-      <jump line="6" column="31" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/DeviceConfigurationData.supplement.js" />
-      <jump line="12196" column="57" filename="D:/Work/tcp-tl-70/client/app/lib/tcpwe/tcpwe.deviceConfiguration.min.js" />
-      <jump line="12207" column="45" filename="D:/Work/tcp-tl-70/client/app/lib/tcpwe/tcpwe.deviceConfiguration.min.js" />
-      <jump line="22" column="38" filename="D:/Work/tcp-tl-70/client/build/javascript/deviceConfiguration/manifest.txt" />
-      <jump line="38" column="29" filename="D:/Work/tcp-tl-70/client/build/javascript/deviceConfiguration/manifest.txt" />
-      <jump line="12342" column="45" filename="D:/Work/tcp-tl-70/client/app/lib/tcpwe/tcpwe.deviceConfiguration.min.js" />
-      <jump line="12" column="4" filename="D:/Work/tcp-tl-70/client/app/core/common/js/helper/globalFunctions.js" />
-      <jump line="0" column="0" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="2" column="19" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="37" column="22" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="39" column="100" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="41" column="24" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="47" column="24" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="49" column="101" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="51" column="13" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="55" column="39" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="56" column="61" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="27" column="12" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="32" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="34" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="42" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="46" column="45" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="28" column="12" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="29" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="30" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="31" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="33" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="36" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="37" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="39" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="40" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="41" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="43" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="44" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="45" column="8" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="51" column="54" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="62" column="46" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="38" column="34" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="23" column="49" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="35" column="17" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/deviceConfiguration.service.js" />
-      <jump line="703" column="7" filename="D:/Work/tcp-we-70/client/app/common/js/helper/appControllerHelper.js" />
-      <jump line="41" column="25" filename="D:/Work/tcp-tl-70/client/app/deviceConfiguration/src/views/wirelessDeviceConfiguration/wirelessNetworkConfiguration/wirelessNetworkConfiguration.controller.js" />
-      <jump line="56" column="16" filename="D:/Work/tcp-tl-70/client/app/common/service/webSocket.service.js" />
-      <jump line="25" column="12" filename="D:/Work/tcp-tl-70/client/app/common/service/webSocket.service.js" />
-      <jump line="46" column="16" filename="D:/Work/tcp-tl-70/client/app/common/service/webSocket.service.js" />
-      <jump line="53" column="16" filename="D:/Work/tcp-tl-70/client/app/common/service/webSocket.service.js" />
-      <jump line="48" column="28" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptCopyFromJsonMethod.rb" />
-      <jump line="53" column="10" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptCopyFromJsonMethod.rb" />
-      <jump line="54" column="102" filename="D:/Work/tcp-tl-70/client/etc/generation/src/javaScriptCopyFromJsonMethod.rb" />
-      <jump line="13" column="0" filename="D:/Work/tcp-tl-70/client/etc/generation/src/pythonProperty.rb" />
-      <jump line="327" column="35" filename="D:/Work/tcp-we-70/client/app/common/js/helper/globalFunctions.js" />
-      <jump line="1709" column="87" filename="D:/Work/tcp-we-70/client/app/common/js/helper/globalFunctions.js" />
-      <jump line="134" column="48" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="144" column="29" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="154" column="29" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="225" column="28" filename="D:/Work/tcp-we-70/client/prod/common/service/abstractService.js" />
-      <jump line="1759" column="29" filename="D:/Work/tcp-we-70/client/app/common/js/helper/globalFunctions.js" />
-      <jump line="1689" column="52" filename="D:/Work/tcp-we-70/client/app/common/js/helper/globalFunctions.js" />
-      <jump line="1714" column="56" filename="D:/Work/tcp-we-70/client/app/common/js/helper/globalFunctions.js" />
-      <jump line="1730" column="52" filename="D:/Work/tcp-we-70/client/app/common/js/helper/globalFunctions.js" />
-      <jump line="21" column="112" filename="D:/Work/tcp-we-70/client/test/manager/prod/controller/manageEmployeeControllerSpec.js" />
-      <jump line="14" column="61" filename="D:/Work/tcp-tl-70/client/app/common/webSocket/webSocketMessage.js" />
-      <jump line="97" column="16" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
-      <jump line="81" column="16" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
-      <jump line="118" column="54" filename="$USER_HOME$/Work/tcp-tl-70/client/app/common/service/http.service.js" />
-      <jump line="51" column="9" filename="$USER_HOME$/Work/tcp-tl-70/client/test/helper/testHelper.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/handler/updateHandler.py" />
-      <jump line="33" column="90" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/model/sup/setup/src/views/terminalSettings/terminalSettingsData.py" />
-      <jump line="109" column="36" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
-      <jump line="99" column="50" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
-      <jump line="20" column="24" filename="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/tornado/builder.py" />
+      <jump line="15" column="33" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="16" column="116" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="17" column="118" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="25" column="92" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="26" column="96" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/employeeSegmentWidget/employeeSegmentWidget.component.js" />
+      <jump line="29" column="18" filename="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/dropRequestsWidget/dropRequestsWidget.component.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="5" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="6" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="7" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="9" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="10" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="11" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="12" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="13" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="14" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="16" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="17" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="18" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="19" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="20" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="21" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="22" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="23" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="24" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="25" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="26" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="27" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="28" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="29" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="30" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="31" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="32" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="33" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="34" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="35" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="36" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="37" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="38" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="39" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="40" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="41" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="42" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="43" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="44" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="45" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="46" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="47" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="48" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="49" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="50" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="51" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="52" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="53" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="54" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="55" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="56" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="57" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="58" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="59" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="60" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="61" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="62" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="63" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="64" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="65" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="66" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="67" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="68" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="69" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="70" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="71" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="72" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="73" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="74" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="75" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="76" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="77" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="78" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="79" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="80" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="81" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="82" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="83" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="84" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="85" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="86" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="87" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="88" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="89" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="90" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="91" column="0" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="2" column="13" filename="$USER_HOME$/Work/tcp-tl-70/client/copy-core-stuff.sh" />
+      <jump line="20" column="37" filename="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" />
+      <jump line="282" column="8" filename="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" />
+      <jump line="0" column="25" filename="$USER_HOME$/Work/tcp-tl-70/client/app/ts/core/builder/abstractUrlBuilder.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1414,7 +1398,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>shared run configuration</text>
+        <text>e2e tests to also make application links in addition to packaging links</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1557,143 +1541,128 @@
         </keys>
       </register>
       <register name="l" type="4">
-        <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="68" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="84" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-        </keys>
+        <text>^nevF/lhxj^</text>
       </register>
       <register name="-" type="4">
-        <text>shared run configuration</text>
+        <text>e2e tests to also make application links in addition to packaging links</text>
       </register>
       <register name="/" type="4">
-        <text>network\C</text>
+        <text>goog.array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSBVcGRhdGVTdGF0dXMoKQogICAgICAgIHVwZGF0ZVN0YXR1cy5jb21wbGV0ZSA9IEZhbHNlCiAgICAgICAgdXBkYXRlU3RhdHVzLm91dHB1dCA9IFsKICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAogICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICJDb21wbGV0ZSIKICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBhY2thZ2UtYXBwcyI6IGJ1aWxkQmFzaENvbW1hbmQoIi9zY3JpcHRzL3BhY2thZ2UtYXBwcy5zaCIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYm9vdHN0cmFwJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtcGkubW9kZWwuc3VwLnNldHVwLnNyYy5zc2hTZXR0aW5ncy5zc2hTZXR0aW5nc0RhdGEgaW1wb3J0IFNzaFNldHRpbmdzRGF0YQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Jvb3RzdHJhcCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9ialNzaFNldHRpbmdzRGF0YSA9IFNzaFNldHRpbmdzRGF0YShpc1NzaEVuYWJsZWQpCg==</text>
+        <text encoding="base64">dGFyIHV2ZiAke1RBUl9GSUxFUEFUSH0gYXBwL2xpYi96b25lL3pvbmUuanMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBtcGkubW9kZWwuc3VwLnNldHVwLnNyYy5zc2hTZXR0aW5ncy5zc2hTZXR0aW5nc0RhdGEgaW1wb3J0IFNzaFNldHRpbmdzRGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkluc3RhbGxpbmciLAogICAgICAgICAgICAiQ29tcGxldGUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlN0YXJ0aW5nIHVwZGF0ZSIsCiAgICAgICAgICAgICJEb3dubG9hZGluZyAuLi4iLAo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0dXMgPSB7CiAgICAgICAgICAgICJjb21wbGV0ZSI6IFRydWUsCiAgICAgICAgICAgICJvdXRwdXQiOiBbCiAgICAgICAgICAgICAgICAiSW5zdGFsbGluZyIsCiAgICAgICAgICAgICAgICAiQ29tcGxldGUiCiAgICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
+      <register name="8" type="8">
+        <text>-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf
+-kf</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkluc3RhbGxpbmciLAogICAgICAgICAgICAiQ29tcGxldGUiCg==</text>
+      <register name="9" type="8">
+        <text>#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip
+#gzip</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1Rlcm1pbmFsU3RhdHVzL1VwZGF0ZS9n</text>
+        <text>%s/\.js$/.ts/g</text>
       </register>
     </registers>
     <search>
-      <last-search>network\C</last-search>
+      <last-search>goog.array</last-search>
       <last-offset />
-      <last-pattern>network\C</last-pattern>
-      <last-replace>Update</last-replace>
-      <last-substitute>TerminalStatus</last-substitute>
+      <last-pattern>goog.array</last-pattern>
+      <last-replace>.ts</last-replace>
+      <last-substitute>\.js$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWJzb2NrZXRTdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxnZXRQcmltaXRpdmVKc1Byb3BlcnRpZXNcPg==</entry>
-        <entry>createCs</entry>
-        <entry>createCs\c</entry>
-        <entry encoding="base64">XDxjc1Byb3BlcnR5XD4=</entry>
-        <entry>JavaScript</entry>
-        <entry>copyFrom</entry>
-        <entry encoding="base64">XDxzdHJKc29uUHJvcGVydHlcPg==</entry>
-        <entry>copyFromJson(</entry>
-        <entry encoding="base64">XDxfZ2V0SnNvblZhbHVlXD4=</entry>
-        <entry>[a-z]</entry>
-        <entry>([a-z])</entry>
-        <entry>\([a-z]\)</entry>
-        <entry encoding="base64">IDo=</entry>
-        <entry>function canConfig</entry>
-        <entry>removeModal</entry>
-        <entry>TerminalStatus</entry>
-        <entry encoding="base64">XDxweXR6XD4=</entry>
-        <entry>restart</entry>
-        <entry>network\C</entry>
+        <entry>widget</entry>
+        <entry>getWidgetItems</entry>
+        <entry>getTableCaptions</entry>
+        <entry encoding="base64">XDx3aWRnZXRcPg==</entry>
+        <entry>headermenu\c</entry>
+        <entry>shouldShow</entry>
+        <entry>session</entry>
+        <entry>getCompanyConfig</entry>
+        <entry encoding="base64">XDxoYXNNYXN0ZXJTaGlmdFByZXZpZXdzXD4=</entry>
+        <entry encoding="base64">XDxnZXRDb21wYW55Q29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxnZXRBcHBDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry>objWidget</entry>
+        <entry>ts\/core\/*\/js</entry>
+        <entry>ts\/core\/.*\/js</entry>
+        <entry>js</entry>
+        <entry>\.js$</entry>
+        <entry>export</entry>
+        <entry>goog.arry</entry>
+        <entry>goog.array</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//getCompanyLocationPreview/g</entry>
-        <entry encoding="base64">JzwsJz5zL29iakZpbHRlclN0YXR1cy9vYmpGaWx0ZXJCdXR0b24vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3Njb3BlLm9iakZpbHRlclN0YXR1cy9vYmpGaWx0ZXJCdXR0b24vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL0VtcGxveWVlLy9n</entry>
-        <entry>s/CostCode/CustomField/g</entry>
-        <entry>s/CustomField/Employee/g</entry>
-        <entry>s/CustomField/JobCode/g</entry>
-        <entry>s/CustomField/MasterSchedule/g</entry>
-        <entry>s/CustomField/MasterShift/g</entry>
-        <entry>s/CustomField/ScheduleSegment/g</entry>
-        <entry>76</entry>
-        <entry>%s//pyProperty/g</entry>
-        <entry encoding="base64">JzwsJz5zL0phdmFTY3JpcHQvUHl0aG9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1thLXpdL1x1X1wxL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyhbYS16XSkvXHVfXDEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woW2Etel1cKS9cdV9cMS9n</entry>
         <entry encoding="base64">JzwsJz5zL1woW2Etel1cKS9fXHVcMS9n</entry>
         <entry encoding="base64">JzwsJz5zLyA6LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlbW92ZU1vZGFsL3Nob3dTdWNjZXNzTWVzc2FnZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL1Rlcm1pbmFsU3RhdHVzL1VwZGF0ZS9n</entry>
+        <entry>%s/$scope/controller/g</entry>
+        <entry>%s/controller.getIncludeUrl/objUrlBuilder.getIncludeUrl/g</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jb250cm9sbGVyLmNvbmZpZy9n</entry>
+        <entry encoding="base64">JzwsJz5zL3dpZGdldC4vY29udHJvbGxlci5vYmpXaWRnZXQuL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3dpZGdldFwuL2NvbnRyb2xsZXIub2JqV2lkZ2V0Li9n</entry>
+        <entry>%s//controller.getAppConfig/g</entry>
+        <entry encoding="base64">JzwsJz5zL2dldENvbXBhbnlDb25maWcvY29udHJvbGxlci5nZXRDb21wYW55Q29uZmlnL2c=</entry>
+        <entry>%s//controller.getCompanyConfig/g</entry>
+        <entry>%s//controller.config/g</entry>
+        <entry encoding="base64">JzwsJz5zL29ialdpZGdldC9jb250cm9sbGVyLm9ialdpZGdldC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3RzXC9jb3JlXC8qXC9qcy90c1wvY29yZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3RzXC9jb3JlXC8uKlwvanMvdHNcL2NvcmUvZw==</entry>
+        <entry>%s/ts\/core\/.*\/js/ts\/core/g</entry>
+        <entry>%s/\.js$/.ts/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
