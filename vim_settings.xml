@@ -512,7 +512,6 @@
       <file name="$USER_HOME$/Work/tcp-tl-70/client/build/package/app/setup/systemjs.config.js" timestamp="1501283097942">
         <mark key="[" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/systemjs.config.js" timestamp="1501278310233" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/builder/terminalsUrlBuilder.js" timestamp="1487973291119">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="16" column="0" />
@@ -729,7 +728,6 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/setup/index.html" timestamp="1501277048578" />
       <file name="D:/Work/tcp-we-70/client/app/terminals/js/controller/appController.js" timestamp="1487613201998">
         <mark key="[" line="214" column="31" />
         <mark key="]" line="214" column="31" />
@@ -772,7 +770,6 @@
         <mark key="." line="30" column="38" />
         <mark key="^" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/tsconfig.json" timestamp="1501283058430" />
       <file name="D:/Work/tcp-tl-70/client/app/webdevice/src/core-dependencies.js" timestamp="1489017811920">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="11" />
@@ -814,6 +811,9 @@
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
+      </file>
+      <file name="/Python Console" timestamp="1501680146904">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/tcp-we-70/client/app/common/inc/default/coveredEmployeeList.html" timestamp="1487276268084">
         <mark key="[" line="6" column="0" />
