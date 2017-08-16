@@ -98,4 +98,9 @@
     <variable name="eventName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="eventArgs" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="iife" value="(function () {&#10;    'use strict';&#10;    $END$&#10;})();" description="immediately invoked function expression" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
