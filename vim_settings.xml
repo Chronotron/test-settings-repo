@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/Work/tcp-we-70/client/build/scratch.txt" timestamp="1484337738196">
@@ -323,7 +323,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/css/SuccessMessage.scss" timestamp="1502910946004">
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/css/SuccessMessage.scss" timestamp="1502913814370">
         <mark key="[" line="35" column="2" />
       </file>
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widget.component.js" timestamp="1500302437957">
