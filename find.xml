@@ -10,6 +10,7 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.sop</mask>
       <mask>*.so</mask>
@@ -27,6 +28,12 @@
       <mask>*</mask>
       <mask>*.scn</mask>
       <mask>*.hm</mask>
+      <mask>.</mask>
+      <mask>.h</mask>
+      <mask>.ht</mask>
+      <mask>.htm</mask>
+      <mask>.html</mask>
+      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
@@ -35,12 +42,6 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>.</mask>
-      <mask>.h</mask>
-      <mask>.ht</mask>
-      <mask>.htm</mask>
-      <mask>.html</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
