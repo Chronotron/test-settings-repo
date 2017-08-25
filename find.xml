@@ -9,9 +9,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.js,*.html,*.spec,*.scss</mask>
-      <mask>*.js,*.html*.scss</mask>
-      <mask>*.js,*.html,*.scss</mask>
       <mask>*.js,*.html,</mask>
       <mask>*./</mask>
       <mask>*.sop</mask>
@@ -25,20 +22,23 @@
       <mask>*,.</mask>
       <mask>*,</mask>
       <mask>*.sj</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.scn</mask>
       <mask>*.hm</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>.js</mask>
+      <mask>.j</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
