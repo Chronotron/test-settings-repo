@@ -377,6 +377,7 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/config/grunt/closure-grunt-setup.conf.json" timestamp="1505858560958" />
       <file name="D:/Temp/TcpIframe/index.html" timestamp="1483643561140">
         <mark key="[" line="14" column="176" />
         <mark key="]" line="16" column="27" />
@@ -485,7 +486,7 @@
         <mark key="^" line="252" column="62" />
         <mark key="." line="252" column="62" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/Gruntfile.js" timestamp="1501281428058">
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/Gruntfile.js" timestamp="1505861116810">
         <mark key="[" line="120" column="13" />
         <mark key="]" line="120" column="13" />
         <mark key="." line="120" column="13" />
@@ -740,7 +741,6 @@
         <mark key="." line="214" column="31" />
         <mark key="^" line="214" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/adapter/abstractNetworkInterfaceAdapter.py" timestamp="1501688064765" />
       <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/views/widgetView/widgetView.service.js" timestamp="1500301212532">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -1170,6 +1170,7 @@
         <mark key="^" line="24" column="137" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/config/grunt/browser-sync-grunt.conf.json" timestamp="1505858448553" />
       <file name="D:/Work/tcp-we-70/client/app/scheduler/js/data/globalMod/sourcePeriodData.js" timestamp="1485814942114">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -1194,7 +1195,6 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/server/src/mpi/presenter/setup/manageNetworkPresenter.py" timestamp="1501687981820" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/controller/importFeature/importTaskInformationController.js" timestamp="1482165939786">
         <mark key="[" line="48" column="159" />
         <mark key="]" line="48" column="159" />
