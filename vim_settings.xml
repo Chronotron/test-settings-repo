@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/Work/tcp-we-70/client/build/scratch.txt" timestamp="1484337738196">
@@ -258,6 +258,7 @@
         <mark key="." line="47" column="22" />
         <mark key="^" line="47" column="22" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/layoutHeader/tcpLayoutHeader.directive.js" timestamp="1506630601211" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/data/globalMod/employeeCompanyData.js" timestamp="1486741044971">
         <mark key="[" line="23" column="48" />
         <mark key="]" line="23" column="50" />
@@ -377,7 +378,6 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/config/grunt/closure-grunt-setup.conf.json" timestamp="1505858560958" />
       <file name="D:/Temp/TcpIframe/index.html" timestamp="1483643561140">
         <mark key="[" line="14" column="176" />
         <mark key="]" line="16" column="27" />
@@ -473,6 +473,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="23" column="36" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/builder/abstractUrlBuilder.js" timestamp="1506630702028">
+        <mark key="[" line="105" column="4" />
       </file>
       <file name="D:/Work/tcp-we-70/client/build/viewCompanyLocationsService" timestamp="1486752926175">
         <mark key="[" line="0" column="0" />
@@ -573,6 +576,7 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="315" column="26" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/core/common/js/uiDomain/urlConstants.js" timestamp="1506630551247" />
       <file name="D:/Work/tcp-we-70/client/app/manager/inc/default/occurrenceRules/occurrenceRuleGeneral.html" timestamp="1484755328433">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -846,7 +850,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/embeddedClockApp.module.js" timestamp="1494018699612">
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/embeddedClockApp.module.js" timestamp="1506630666788">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="5" column="60" />
         <mark key="." line="5" column="60" />
@@ -929,6 +933,7 @@
         <mark key="." line="23" column="6" />
         <mark key="^" line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/Work/tcp-tl-70/client/app/embeddedClock/src/urlMap/embeddedClockIncludeUrlMap.js" timestamp="1506630906862" />
       <file name="D:/Work/tcp-we-70/client/app/manager/js/data/addEditOccurrenceData.js" timestamp="1486392288322">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1170,7 +1175,6 @@
         <mark key="^" line="24" column="137" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/tcp-tl-70/client/config/grunt/browser-sync-grunt.conf.json" timestamp="1505858448553" />
       <file name="D:/Work/tcp-we-70/client/app/scheduler/js/data/globalMod/sourcePeriodData.js" timestamp="1485814942114">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
