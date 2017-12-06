@@ -28,15 +28,15 @@
       <mask>.ht</mask>
       <mask>.htm</mask>
       <mask>.html</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
