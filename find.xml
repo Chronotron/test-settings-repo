@@ -8,10 +8,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.spec.j</mask>
-      <mask>*.spec.js</mask>
-      <mask>*,.</mask>
-      <mask>*,</mask>
       <mask>*.sj</mask>
       <mask>*</mask>
       <mask>*.scn</mask>
@@ -22,6 +18,13 @@
       <mask>.html</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>.</mask>
+      <mask>.d</mask>
+      <mask>.dc</mask>
+      <mask>.dcs</mask>
+      <mask>.dcss</mask>
+      <mask>.css</mask>
+      <mask>.scss</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -30,13 +33,10 @@
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>.</mask>
-      <mask>.d</mask>
-      <mask>.dc</mask>
-      <mask>.dcs</mask>
-      <mask>.dcss</mask>
-      <mask>.css</mask>
-      <mask>.scss</mask>
+      <mask>S</mask>
+      <mask>Sc</mask>
+      <mask>Scs</mask>
+      <mask>Scss</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
