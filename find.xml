@@ -6,12 +6,8 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=" *.scss" />
     <recentFileMasks>
-      <mask>*.sj</mask>
-      <mask>*</mask>
-      <mask>*.scn</mask>
-      <mask>*.hm</mask>
-      <mask>.h</mask>
       <mask>.ht</mask>
       <mask>.htm</mask>
       <mask>.html</mask>
@@ -33,6 +29,11 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
